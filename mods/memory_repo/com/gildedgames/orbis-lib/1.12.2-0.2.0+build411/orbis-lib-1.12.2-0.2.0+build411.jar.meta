@@ -1,0 +1,1767 @@
+Manifest-Version: 1.0
+FMLAT: orbis-lib_at.cfg
+Maven-Artifact: com.gildedgames:orbis-lib:1.12.2-0.2.0+build411
+
+Name: META-INF/orbis-lib_at.cfg
+SHA-256-Digest: b3DoNKSZzkXzbNCjLDC2IQoGGb/1hBy3wRhJb4Ax/7E=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectManager.class
+SHA-256-Digest: qkppOSsSnJVTHChmcRh4GJIvQZqiHhJLE6e93JokZww=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleRecord.class
+SHA-256-Digest: Kyzd1nllTUw8r6j036EwJnZQdmRGzbSceeWF/U++Z7M=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiDropdownList$1.clas
+ s
+SHA-256-Digest: Esdpepa+7dHjn+7cv/soHUNk9ZWpkyqRsWxBElrf4rY=
+
+Name: com/gildedgames/orbis/lib/block/BlockDataContainer.class
+SHA-256-Digest: 0prsjycH7PuNbK7NX8F54Nw8orqnEoXhe+F9iDEaoDk=
+
+Name: com/gildedgames/orbis/lib/core/tree/ConditionLink.class
+SHA-256-Digest: 5IjLnBqsSYNQ3LvQrVXb4QyQPwZV0qhOxomjPcJSyZc=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintStackerData.cl
+ ass
+SHA-256-Digest: SK/y8j2W2uYIxqNgJATV2GZ7IDngp3+uXixgpE5V4QE=
+
+Name: com/gildedgames/orbis/lib/world/instances/IInstanceFactory.class
+SHA-256-Digest: g0julM8CrjIoVapv7h+YSserW5YBmdebUYglwGlLg0Y=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/list/GuiListViewer$Nod
+ eFactory.class
+SHA-256-Digest: fgTkkyDAfB7z4iHVFF77MgAnpKCbZx4X0hczxJhfQTA=
+
+Name: com/gildedgames/orbis/lib/inventory/IInventoryNBT.class
+SHA-256-Digest: qB7kCjI2Tcz80j9AD/k4PBU/r0Itvci1PgCPSqz2BjE=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/IDropdownHolder.class
+SHA-256-Digest: J8sRIuh8d2G3/DaT8s/4cVOe8QHL5Vc4TjsWrJcq0EE=
+
+Name: assets/orbis-lib/tick_box_pressed.png
+SHA-256-Digest: WBWvcQDe9iJn/pQYR+fm+YO4rqv1S6EHAzrE+zknxuE=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectListener.class
+SHA-256-Digest: jlOparlEkjvQk5MW1YqvMDFlChvS5KXO0nWN3rVDU+0=
+
+Name: com/gildedgames/orbis/lib/OrbisLibCapabilities.class
+SHA-256-Digest: 0l41uBnTqZ87wo66AhO6majS//DonFcbF3fIRYTi8F8=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/list/IListNavigatorLis
+ tener.class
+SHA-256-Digest: sp7qvUU6sTGEsO2xskbNnPCgy4i9wuTODZ2sScmwbJQ=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiContex
+ t.class
+SHA-256-Digest: nl0+kKmzskzuT+DidRMeVRUVrrxmaqA9hk9Esf+Cc8I=
+
+Name: com/gildedgames/orbis/lib/util/mc/InventoryHelper.class
+SHA-256-Digest: 3L9UjNQwmli88avuwoUAhD8Ikn8OJrn06II08jlnCVY=
+
+Name: com/gildedgames/orbis/lib/data/framework_new/IFrameworkAlgorithm
+ .class
+SHA-256-Digest: TG/p2xIxEbyBfntu+2SN8C/qSx1K/YR2nP6OswDViDE=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 4.class
+SHA-256-Digest: L7Uwvg0DTSqMm7+DASz7tVOZhPX8B1Onq41vm8cztfc=
+
+Name: com/gildedgames/orbis/lib/core/CreationData.class
+SHA-256-Digest: MSlfFRfhqSpXmXZRXSY+Eux1ag6W/6/Z8ZllaGD8nG4=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/GuiVarDisplay.
+ class
+SHA-256-Digest: zRxO8+X7cpisCY5UHfAMTmgA6A7mYzr80DNw6gvhlqE=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/IBlueprintMetadata.clas
+ s
+SHA-256-Digest: lKU/4ZsxJL9EGnM1grO0zwcq7yfRN5JbuttdZ2HrN6Q=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/fdgd_algorit
+ hms/IGDAlgorithm.class
+SHA-256-Digest: Qi1aGqXPEkLPxAqShk2s5Q6ZVQ0wFzf+l4YbT8y47W0=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintDataHolder.cla
+ ss
+SHA-256-Digest: Wapkv4SRRxog+XjBOYxKUgjEekK0FSZ4zyljM+wcWyA=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiInputSlider.class
+SHA-256-Digest: i0Q2EcRMyFcvkLe+kYA4z1wySrjnKOFlhmXnC3zphtA=
+
+Name: assets/orbis-lib/list/add.png
+SHA-256-Digest: 0HLBXYM7B7mz6DXVeP7tJE7mkrkq0MexgwLxa/4C9LM=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarBoolean$EqualsFal
+ se.class
+SHA-256-Digest: g7Uto9KrskDXEOIzqSeCYi11xM0NKsHI5HK2Ia3X2sE=
+
+Name: com/gildedgames/orbis/lib/util/io/NBTFunnel.class
+SHA-256-Digest: VF3SI07fOEMhHD/luO9Zy/RYl57+95VvFzIRuC78LDE=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableCac
+ he.class
+SHA-256-Digest: BXIquDmrJQQIVfpWXiWRE5C9CZnWi8TrQdTNIwb5vlQ=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectManag
+ er$2.class
+SHA-256-Digest: 4s3y6Ph+VchznqIZxLwf2QSscAaLUqj4Uo89Jya3QcE=
+
+Name: com/gildedgames/orbis/lib/core/tree/LayerLink.class
+SHA-256-Digest: soA+TNnMX7B4lhn7PyM2mOKwtp5Rox8USh4eFZu+8pw=
+
+Name: com/gildedgames/orbis/lib/data/framework/interfaces/EnumFacingMu
+ ltiple.class
+SHA-256-Digest: 1WyIHvJa37xNnUjihw1vKY1TFj58NbTVt6GjGxmgo6U=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/IBlueprintDataListener.
+ class
+SHA-256-Digest: nDci8C5XXl8S1bu37td0/wxV4y1JM4Hty2/PYaSWMg8=
+
+Name: com/gildedgames/orbis/lib/IOrbisServices.class
+SHA-256-Digest: jV7F91OK03SIN2f8pT/4TUjdeL7lq42D9qbP7/u4IBM=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketRegisterDimens
+ ion$Handler.class
+SHA-256-Digest: grV/LTKLMvcyPaAn58l0RkhncEynksSkcCCG7aR41ZU=
+
+Name: com/gildedgames/orbis/lib/world/instances/IPlayerInstances.class
+SHA-256-Digest: A4k4Ud5AZf5wZD2hN96rrRHnWsYvZsn9Cq5qN+5rY+I=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/GuiItemStackCh
+ ooserScreen$ItemStackButton.class
+SHA-256-Digest: URBovFyYoJbttuha/ZayjSgmXuyCAzdEq0Zs3BA770U=
+
+Name: com/gildedgames/orbis/lib/data/framework/FrameworkEdge.class
+SHA-256-Digest: RBflHuocyzoOejuWv+3q+V8bjo282jm1V9tL2WqepH4=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/DataMetadata.clas
+ s
+SHA-256-Digest: dP5e8iOEh/26SDWW8Eseca96BCYPeoKAipzfh71Lo8s=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableCac
+ he$ReloadListener.class
+SHA-256-Digest: nIHwJw2Q5Xdt883UeAVanuu7/AoTR/IVGQsuayzTDR4=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/GenericSerializer
+ .class
+SHA-256-Digest: xnsvEAH46yYao38SZj8ZR8HqqZ7Dp5tdt5b0jBjqlJU=
+
+Name: META-INF/fml_cache_class_versions.json
+SHA-256-Digest: eoTCxd79xmbKuXO70y0PCzfVUF0s6NroNnYyDTbv3fA=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableCac
+ he$1.class
+SHA-256-Digest: NFejARqKKjYkR/YfV9QDXqvvnU1unwP71gJIG+zn+BU=
+
+Name: com/gildedgames/orbis/lib/util/RotationHelp.class
+SHA-256-Digest: 59HV4Ip4KyP5xA7DM50DRGIMmh65xVOtnIszoClAD+M=
+
+Name: com/gildedgames/orbis/lib/util/random/SplitMixRandom.class
+SHA-256-Digest: wEH5foA2Ckp8B3x51z2bV/dBrQJMIBQWSZEF/qEuBXk=
+
+Name: com/gildedgames/orbis/lib/core/BlockDataChunk.class
+SHA-256-Digest: RX5osU9yvgFi5JTmH+191fCW1rbe3HPR5oEsuKRSCZs=
+
+Name: com/gildedgames/orbis/lib/world/instances/InstanceRegistryImpl.c
+ lass
+SHA-256-Digest: 0BfPrDQ2hThZkUrsO+/rd9hdaBUrfdaxFIMT2I783hI=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/directory/IDirectoryNo
+ deFactory.class
+SHA-256-Digest: 0/VhyWVlS0D9rUqDtzBAxcNoHYXMLDHs3uLSCfB3NmU=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiLibHelp
+ er.class
+SHA-256-Digest: ofADeEIYHDTY+b2634ueblN25OmQPNw3EeaUSFl2AzU=
+
+Name: com/gildedgames/orbis/lib/data/schedules/BlockStateRecord$1.clas
+ s
+SHA-256-Digest: 92RRfmoZYNqzyJ6OL0jYRN3hFVEHhcZ0+S0OLySYA+k=
+
+Name: com/gildedgames/orbis/lib/data/shapes/IterablePosShape.class
+SHA-256-Digest: l/mryAMziktYIL3prcauTFKPVV4qGhDtJsxgit8hyqg=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$DoesntEqua
+ l.class
+SHA-256-Digest: jE4qJ60WvA+R5KoDCwrO2kTJle/DjZJYxxr01y31zLM=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/GuiItemStackCh
+ ooserScreen.class
+SHA-256-Digest: cldZQ8SVXUoPENV4/Oy3pd0fY7vgkJIJ743JaWQrRzA=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/DropdownElementWithDat
+ a.class
+SHA-256-Digest: sUd9zBX1moP4EYq1OghjLYpbzNaQQU+cHssQCCXSiqg=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Contains.c
+ lass
+SHA-256-Digest: Onp21q/uFTJbkfLW5gEZuWvxfKbF7PDWnQsNJYfom8o=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 9.class
+SHA-256-Digest: W7B2GUnEb9uI+tlbBTkiaTkn2uNmslBbwdgwfLG7+Yc=
+
+Name: com/gildedgames/orbis/lib/client/rect/BuildIntoRectHolder.class
+SHA-256-Digest: QymQsy4sW5QXVDHN6mdiouGUVwu/fPC6JyEnlbcSOfc=
+
+Name: com/gildedgames/orbis/lib/data/region/IRegion.class
+SHA-256-Digest: rZrA4++9sDvmpPn+ghlA86NJLMShG4sGCDk+a5SC2XI=
+
+Name: com/gildedgames/orbis/lib/network/util/IMessageMultipleParts.cla
+ ss
+SHA-256-Digest: rtz0suTsRvb9i2UgE8LuFyaxvi4dg5B2giDXQ3tOrec=
+
+Name: com/gildedgames/orbis/lib/data/schedules/FilterRecord.class
+SHA-256-Digest: R6A33C5H80cnJcJB262UdFeAHmqXA7u9LNUCtmg6kPA=
+
+Name: com/gildedgames/orbis/lib/data/framework_new/IFramework.class
+SHA-256-Digest: 4N4wNWoCu5fKJuAXNlrT5fuOWyIgvymKJNdY9+PwLfA=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterHelper.class
+SHA-256-Digest: n3fB0D2VzQ1VCEeSJH3gjTUZY9p5jq6xM3W08tM4PZ0=
+
+Name: com/gildedgames/orbis/lib/world/instances/PlayerInstances$Storag
+ e.class
+SHA-256-Digest: 5mA0BQIb3VwUK1bX2JJVH0SS/JNVovQ86sKdobR0mdw=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 10.class
+SHA-256-Digest: lByn+Qnfr6ft3IVR54u0a4Vb4OufM1qb/tDrLeBgMrg=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/FDGDEdge.cla
+ ss
+SHA-256-Digest: Li6hgkWpfinv9Vpi4yHXpsNNsQY7apfeNsV2uxu/7BY=
+
+Name: com/gildedgames/orbis/lib/world/WorldObjectManager.class
+SHA-256-Digest: qo3YBzV9bA+zatuswqZxxLmaGKI1V7Koj+Cnv5QiN+M=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType.
+ class
+SHA-256-Digest: XuNOimvP/8AnYjL/0QEnXCe1bjlpkyOOI4TA+WktY30=
+
+Name: com/gildedgames/orbis/lib/util/cache/FileSystemCacheBuilder.clas
+ s
+SHA-256-Digest: wlj2dxEhoi9VA2wUgn0B8ZtD+yrXpGSwMhwXOJx67QY=
+
+Name: com/gildedgames/orbis/lib/data/IDataUser.class
+SHA-256-Digest: wph8xPeEdl/Hi1JCKaRJdLV09raTwmosgLH/he2uBOY=
+
+Name: com/gildedgames/orbis/lib/data/framework_new/IFrameworkEdge.clas
+ s
+SHA-256-Digest: ysH21xCCil+2gMMD/TbvHwZyowP4nsRlv3IAMae4vuA=
+
+Name: com/gildedgames/orbis/lib/util/io/IClassSerializer.class
+SHA-256-Digest: uYG76SVbR/yhDJKxTfINjI/TFQTVqZzurFWN1huZ0Eg=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleRegion.class
+SHA-256-Digest: U0dPTm40vAFKDfZj2R0wjqloQ3QpfA4brilGiILnV68=
+
+Name: com/gildedgames/orbis/lib/util/ObjectFilter.class
+SHA-256-Digest: GsoWTpaBG/du1t6Myvsklxgd6hF10rCYlpqYvVQpVRA=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleLayerOptions.cl
+ ass
+SHA-256-Digest: g4tksut+cbue/iQuXaletGY7eVH0qbfJQVSh6pz7JJA=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterType.class
+SHA-256-Digest: rVTfXP1bnd5aNogFusHs6GYCVnmfRnzbl5Lt2zDlUvM=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintData.class
+SHA-256-Digest: iwvQxugPXYky6cxTtNnFVVYZszDT35PcNSy1s6fRAII=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/DropdownElement.class
+SHA-256-Digest: k7ORSnzutTNU+BdCfEKauzd7unjxFdru1zkxkCQ315g=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractPersistingCache.cla
+ ss
+SHA-256-Digest: e1lyq1Zkdbk5bh6ksJ7pC6zf80s3wA6mlwFsxXbjo1Q=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberIncr
+ ease.class
+SHA-256-Digest: lwA0Vn5pZeZzBrjnYOF0aIISDYQXjDwtBDaLGRYVW1o=
+
+Name: com/gildedgames/orbis/lib/data/framework/interfaces/EnumFacingMu
+ ltiple$Plane.class
+SHA-256-Digest: HqC6h3Mk+SzUpLT1UjtSgDWAs4MimxlfQcLMV/mdC70=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectSeekable.class
+SHA-256-Digest: rtGMAJ2Q2s1a0hcaDV70K8whd/Mw179jBtBpzJkioNE=
+
+Name: com/gildedgames/orbis/lib/data/management/IMetadataLoader.class
+SHA-256-Digest: o3/2gJFRJSSEWz2BwJ/22fgCUE3ck2DnMfndwXVgdTM=
+
+Name: com/gildedgames/orbis/lib/core/conditions/PlacementConditionOnBl
+ ock.class
+SHA-256-Digest: y0ypi/1x+fWaR8WnnSEC/NpX/qB21kcQBUfA8hgBSto=
+
+Name: com/gildedgames/orbis/lib/util/mc/NBTHelper$1$1.class
+SHA-256-Digest: W78lFk1BuptETQjc5HRZzkEhZcBgK6Iw/6b/J0lvIUg=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/IConstra
+ int.class
+SHA-256-Digest: mQG7dG/vbRzGrCQ3ZS8ka+M9fOzyQTAW/h7iPBivpgw=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiFactoryGeneric$1.cl
+ ass
+SHA-256-Digest: +FZFuvfrS/NPZzeisbgoDpnDBdI9zg3DK1EeeD43HeM=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/ProjectInformatio
+ n.class
+SHA-256-Digest: S7yGp3YfpD5TzLY3Z7W8HvJ6liLBhxR7vtq0BAV7xe8=
+
+Name: com/gildedgames/orbis/lib/util/OpenGLHelper.class
+SHA-256-Digest: tU6QrCXCWo/KYlY2Ea4BkYgexDkyxe02vQjNFwyjqHg=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/DataCachePool.cla
+ ss
+SHA-256-Digest: cLh9nHx6UFC0n2ymFeMcQsU62wdPjSyZiFjG1fZR/E8=
+
+Name: com/gildedgames/orbis/lib/data/region/Region.class
+SHA-256-Digest: 2LGZejMPQFH8+bN6LYvqfnLQtgTyGgDd97ksD53N4x0=
+
+Name: com/gildedgames/orbis/lib/util/OrbisTuple.class
+SHA-256-Digest: jEPKLgaJcR94EWOHejgs4s1Bna6XGuZFIlNcb9N41bk=
+
+Name: com/gildedgames/orbis/lib/ReflectionOrbis.class
+SHA-256-Digest: bSMElMgPrP0pOLBHzd93viq6SCd8lQZxfuF6Y7DB7Qk=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataManagerContainerPr
+ ovider.class
+SHA-256-Digest: l8M1JpARpvSQWZfx6XOA/+T2ep67uUTS9zEwd3b1iKk=
+
+Name: com/gildedgames/orbis/lib/util/ObjectFilter$FilterCondition.clas
+ s
+SHA-256-Digest: vFGvn20nxZQw2tfmO89bVX8bfitI0y+zSyXE7H8gKQ4=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketUnregisterDime
+ nsion$Handler.class
+SHA-256-Digest: kl6XFZUSsTpE99r8zjHP2THeEDPrbU3wzkD2vm0EMVw=
+
+Name: com/gildedgames/orbis/lib/util/random/XoRoShiRoRandom.class
+SHA-256-Digest: cCDCNHP0LcggLvpfOdfMYg01cH3jIvZ1jaX8nJ8T8nw=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterLayer.class
+SHA-256-Digest: yUZZ6L92Wz2yopFZVjAKs+UIGuCyFlQrlE1H0Vv7vaw=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/fdgd_algorit
+ hms/FruchtermanReingold.class
+SHA-256-Digest: T+zdhh2LwFPM0fb7/DhWg0roKz5ngKQjs40416UnQcI=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectManag
+ er.class
+SHA-256-Digest: 5l/cWHmj4MxVLFytTpl7sonEpEBhYf8KELfEAJ71Sjw=
+
+Name: com/gildedgames/orbis/lib/ReflectionOrbis$1.class
+SHA-256-Digest: MQXXCEp1ztOvXu5uNqkDxQ0wSvrzNXeJ7I9X68xO7Go=
+
+Name: com/gildedgames/orbis/lib/world/IWorldObjectManagerObserver.clas
+ s
+SHA-256-Digest: UCyOaX0PBMx80/1Yw7pJ9Cf4Lnv+Y8fIXCP3pYvImfs=
+
+Name: assets/orbis-lib/list/add_disabled.png
+SHA-256-Digest: /EIMiYEsrdkN4MRBMSraNCL8b1C6/PUK2bNBiZU16w0=
+
+Name: com/gildedgames/orbis/lib/core/baking/PotentialEntrance.class
+SHA-256-Digest: /5JHF3mrFaj9u5IvEQ5X6kAnel0NFj+4J/Z3NU00EhY=
+
+Name: com/gildedgames/orbis/lib/util/mc/ContainerGeneric.class
+SHA-256-Digest: wpfyyvCDvei93XJBBlivgLuik8lMS5Ez84loPXAV46k=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVarDisplayChild.cla
+ ss
+SHA-256-Digest: XD14k66pdY1BKpVhmGC104uBZj5NwpnG1GbaMcg3FNM=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterType$1.class
+SHA-256-Digest: EIRxCr2OqeEv9hlhPnU3ofvEyFXMwVulYq69oU0rMzg=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiFactoryGeneric.clas
+ s
+SHA-256-Digest: CU7Pf5ts+PNOm0LmDZ+bC4xKz8OQq4j4t/McpkZqRm0=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/IntegerDisplay
+ .class
+SHA-256-Digest: FaCjHbSNYUPFJYhs2Z8rVYAJj0+F1YYVZkP/UjxRpt8=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Pa
+ thwayNode.class
+SHA-256-Digest: f+KiTOSQNpgjuhBqBI532RUF2hsxqldmfArr0YDMCTk=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectCollectionBuil
+ der.class
+SHA-256-Digest: cPSlOZht3we8hmt/Nz3AqHtqAUaM/JsnFjfpUba2aqg=
+
+Name: com/gildedgames/orbis/lib/data/IDataHolder.class
+SHA-256-Digest: +2Hn8lqGXYXV2H0jcgXYHLQlaGd4Yc/cPIjJPSJkRpE=
+
+Name: com/gildedgames/orbis/lib/data/shapes/AbstractShape$1$1.class
+SHA-256-Digest: kuf2skZt2oe8lbIDgnV1XF6uNUwy+RiQ8vYOd3jYjwo=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Equals.cla
+ ss
+SHA-256-Digest: RPv3Vpopf46iFW8C6wmdjZ89CIiLd18fYEMxIc6/x3A=
+
+Name: com/gildedgames/orbis/lib/util/TeleporterGeneric.class
+SHA-256-Digest: 3S++mGl2Bs1QlDreoxrLc/DRRo3uaoJeIzsRozs9bVk=
+
+Name: com/gildedgames/orbis/lib/IOrbisServicesListener.class
+SHA-256-Digest: i2zDwivuFaaTZLF1h2ZjtUmbYlXQMqRZJ9svX1esxFY=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiButtonVanil
+ laToggled.class
+SHA-256-Digest: ILuONgoBrL6z7yaBLRdb7Lray4Iz7xW6hgDdc8CZ6xQ=
+
+Name: com/gildedgames/orbis/lib/data/shapes/SphereShape.class
+SHA-256-Digest: 1Irsz/418ObKeeAUutE6Cd2X4prFkIY2UHA6WAt5WcY=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IPositionRecordListener
+ .class
+SHA-256-Digest: M5r0vbb+SAf7mQ9l2knOZ9hSyxa3RBtSDBhmJGFbWSE=
+
+Name: com/gildedgames/orbis/lib/core/conditions/PlacementConditionAvoi
+ dBlock.class
+SHA-256-Digest: QLzfeMPPzmbP05eXJagPy7+Kqk0oDP64yxtAhugKvSY=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleLayerOptions.c
+ lass
+SHA-256-Digest: QRHoRwrpgf8dqhSSv95Ul9krQe2A84m1afFAXuOrCCM=
+
+Name: com/gildedgames/orbis/lib/client/rect/Pos2D$Pos2DBuilder.class
+SHA-256-Digest: l1zRVlmy44vWuQpMXXaROsmZjURa6m8whE+CF8VLF1U=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 6.class
+SHA-256-Digest: YT05Ig3M+S2B/oS1eOdU84x3f/LlXgLF/JAvVzj20DM=
+
+Name: com/gildedgames/orbis/lib/util/ChunkMap.class
+SHA-256-Digest: 69T0H9Dl94t+tW5N731zoeV92onDbVCfOe6xh5akjFc=
+
+Name: com/gildedgames/orbis/lib/data/region/IRotateable.class
+SHA-256-Digest: 0AgT2lY0tYblHCh4DEdlEyIMOz9NMLrbj+uH65y/og4=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiElement
+ .class
+SHA-256-Digest: 9LiStflHq742ZCB9L9V4Ne218FE3H/d/KK8ii2XY758=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/DataIdentifier.cl
+ ass
+SHA-256-Digest: qX1meofujZ1ZT5Ae90Bv3gKG/zNeYjj5pEKtsrEQYDE=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarFloat.class
+SHA-256-Digest: te9be3aoBWqDAcuBJ/LBT2y+Y1TXYMKuFtrYYGlJQSw=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberG
+ reaterThan.class
+SHA-256-Digest: HHqSZtYf3XmXuige7AvGTzxJ6QiFFj8/mzqZ/MxrxT8=
+
+Name: com/gildedgames/orbis/lib/core/BlueprintDefinition.class
+SHA-256-Digest: F2ueMj5oP/7PcI58GdDYojYoJhG/nid+p4CZMkNqevY=
+
+Name: com/gildedgames/orbis/lib/data/framework/GeneratedFramework.clas
+ s
+SHA-256-Digest: /5z2M3ZiWaoOKoUc4/Gm8WaqR7GCsHO+B15AgWg6Ycg=
+
+Name: com/gildedgames/orbis/lib/core/util/BlueprintUtil.class
+SHA-256-Digest: 3Cm8Oj+51zJ/zCpvlNKCyMui5RUw+ENxXImkxMr/+bw=
+
+Name: com/gildedgames/orbis/lib/util/RotationHelp$2.class
+SHA-256-Digest: ydNgO5PwxyWmHIzusu18/bvBzlrQay3nvPHoxcXXEFM=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiViewer
+ .class
+SHA-256-Digest: qxCQLD5hNxQpXK8MO2IAg/tKg6cytq5JcrsSmkSo0XM=
+
+Name: com/gildedgames/orbis/lib/data/framework/FrameworkAlgorithm.clas
+ s
+SHA-256-Digest: hPFtzQVUbViyNEbjUIZmUdosNNG5Yqmt7konl2GUxM0=
+
+Name: com/gildedgames/orbis/lib/data/shapes/LineShape.class
+SHA-256-Digest: sniCxArYFAjSgGZavHyPl+UX+r2Vh2/4a3lio/SqVlk=
+
+Name: com/gildedgames/orbis/lib/world/instances/IInstanceRegistry.clas
+ s
+SHA-256-Digest: Je7fF7AQEz1VD2X4Gn/iVU4XxIRR0v0NiAOYgxRtYuE=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarItemStack.class
+SHA-256-Digest: wif3dVWvKcbtaH3gDNysvDR9+g8Lz+Huq5gsr1oXZyA=
+
+Name: com/gildedgames/orbis/lib/client/rect/Pos2D$1.class
+SHA-256-Digest: bTUTs0HyVUP85RegwrdU5JUPjcXCp/fmS2spTA7DgB4=
+
+Name: com/gildedgames/orbis/lib/core/PlacementCondition.class
+SHA-256-Digest: 16seoIp/BI7MJ7WdIp6XHpoHeC979fO7+aP3GbMcbw8=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectHolder.class
+SHA-256-Digest: rHJPFnQTjIiN0ycgqsY9KR+pzGpdDJfAL7z//wBcrlE=
+
+Name: com/gildedgames/orbis/lib/core/tree/NodeTreeUtils.class
+SHA-256-Digest: CHAhIJHcnxEhxEsDxTSOQQE5AP0Ow9qbsfNsKQ2rYVg=
+
+Name: com/gildedgames/orbis/lib/core/baking/IBakedPosAction.class
+SHA-256-Digest: nTavlgP0FSx2zi74jUlFn0GNrJB/Ot94dzBgPZx/9/Y=
+
+Name: com/gildedgames/orbis/lib/network/util/PacketMultipleParts.class
+SHA-256-Digest: 4fUry3PxSi2EyYtZN+fv3ehM9AHAmMuCadvwXMpoELo=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedScheduleLayers.class
+SHA-256-Digest: lraeR6CpQE0nwdm8GTL6ZSDl1gV8EJdTQFFCMHHH0Hc=
+
+Name: com/gildedgames/orbis/lib/util/cache/FileSystemPersistingCache.c
+ lass
+SHA-256-Digest: Cd+J7fdQUxvT9YOtOmh7rQOr+puEMh69gnUL65Rjuc0=
+
+Name: com/gildedgames/orbis/lib/world/data/IWorldDataManagerContainer.
+ class
+SHA-256-Digest: bUIOKvhf9Y/1wGrBTKEK0G9qYzWuEcOb36xNj3IFJUI=
+
+Name: com/gildedgames/orbis/lib/data/pathway/IEntrance.class
+SHA-256-Digest: scZ3PPw29cH+t7JhpQ7X+YTn7K7oA+cv6UeL2ppZ5M8=
+
+Name: com/gildedgames/orbis/lib/core/variables/post_resolve_actions/IP
+ ostResolveAction.class
+SHA-256-Digest: I59S8piuR0Ots6gJcejEjUZ4TxZqxpFCUJhYw0OsUWA=
+
+Name: com/gildedgames/orbis/lib/client/rect/BuildWithRectHolder.class
+SHA-256-Digest: SKE4A04ZgIRNPNtBjzDxUaujLgy6ctqn/dxSA2CQKpA=
+
+Name: com/gildedgames/orbis/lib/core/tree/INodeListener.class
+SHA-256-Digest: 0P6oESTwTsq7Klg7pXcmqzqr/9crulxwzN4dB9+TVxo=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/fdgd_algorit
+ hms/ComputedParamFac.class
+SHA-256-Digest: Pg1NGpXgSxyPwX88R4bWtOj9nTRfqfH3NhozxGeWO44=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectManagerListene
+ r.class
+SHA-256-Digest: aHLRBmgChC7Xt+1znGUZtvnzTfTLdRfKW2dpVaonCCE=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/FailedToGene
+ rateException.class
+SHA-256-Digest: suH8zWPSvEkoiJqB+FeaZK52HosX11BbAD8R6RGIG7s=
+
+Name: com/gildedgames/orbis/lib/util/BlueprintHelper.class
+SHA-256-Digest: DkpT+z6h+tBdQfVduyNOjlNxqdKQKu1rgsiYo0o4Wr4=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataManagerContainer.c
+ lass
+SHA-256-Digest: FPpmh5/ctMqn/cQ/XCBCEglsCguv4wzpIjRd9ZvrAh8=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiTextLabel.class
+SHA-256-Digest: hxR6DQGrjKdn4GVmTm5yeGqjB4oyMTS1F5oxSXGnsRY=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 1.class
+SHA-256-Digest: a8MugeI+R6ieFvSThG1a3/XNx950QHqw/xb+W2qX0fg=
+
+Name: com/gildedgames/orbis/lib/network/instances/MessageHandlerClient
+ .class
+SHA-256-Digest: MdTtFFb/u+cz1QJaD6AxErwp+y55tmn05pjGKdcm1kE=
+
+Name: com/gildedgames/orbis/lib/core/conditions/PlacementConditionRepl
+ aceableMaterials.class
+SHA-256-Digest: c7arDb85g8FFBZCP47zB2/zwUKclFdhgKhuaITvPV+A=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiContainerCr
+ eativePublic$CreativeSlotPublic.class
+SHA-256-Digest: HINAKlDREya4T6MGAZL/ZeVVWE4ZLdM1owvRGLbYig4=
+
+Name: com/gildedgames/orbis/lib/data/management/IDataIdentifier.class
+SHA-256-Digest: ihab8/3oYVIdMo4T7aNWcNb/FzobiCQultcUkZ7jHJ0=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/repeat_methods/Texture
+ RepeatUniformEdges.class
+SHA-256-Digest: g2VRjtTm7bcoHQASi0h4hclffahde53u4hbimwHp59w=
+
+Name: com/gildedgames/orbis/lib/core/tree/INode.class
+SHA-256-Digest: 8fbhBU8FIqHnWHVecCx3KvDFEsRtWj2MI/gYWqWgEkw=
+
+Name: com/gildedgames/orbis/lib/data/framework/FrameworkType.class
+SHA-256-Digest: LDbBwzkRTgkPu7wpEigxIS+yBtf0hBccP6Yt+ekHnts=
+
+Name: com/gildedgames/orbis/lib/data/schedules/FilterRecord$1.class
+SHA-256-Digest: JtpIdGOTJjNs4BmVOzCr8nvy1cJoylDkHtcLMX68Xyw=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/ProjectFilesystem
+ Local.class
+SHA-256-Digest: JnYnT93NbZmpOtGTBn9lXcAzogR20A5t9eVbtnPK7VU=
+
+Name: com/gildedgames/orbis/lib/core/variables/post_resolve_actions/Po
+ stResolveActionSpawnEntities.class
+SHA-256-Digest: 7yplpZkYgJK+cqcBIxjJWle529fOtrk6PLIHATcS5nU=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberL
+ essThan.class
+SHA-256-Digest: 11Fywh88Dq1maIbDMqk7/SjRzo4gyXbZo3J6lo7F3Wo=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberC
+ ompareBase.class
+SHA-256-Digest: tFzQX7awL/8nC5wjbfUePml/8MNoLMG2WM51XEw2yF4=
+
+Name: com/gildedgames/orbis/lib/network/instances/MessageHandlerClient
+ $1.class
+SHA-256-Digest: 3xldpCLgwMZxaONH+0xjDs6KsFXFU9dbAkyWt3v+c4s=
+
+Name: com/gildedgames/orbis/lib/data/IDataChild.class
+SHA-256-Digest: Gu0ZL2QKYLnMgKbumxWdvemtlmByv1KKCHYOPu4AsrQ=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterType$2.class
+SHA-256-Digest: BuLGzxhDSoddkFIKkuw+42uz8VgLaeYmT9ZZggOa8g4=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectCache.class
+SHA-256-Digest: drjPKvm2NxBSWdkbqZB3IfMgkF+Zc25e60xRW2TociY=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarBoolean.class
+SHA-256-Digest: RqVj7otAy83/E0zCXpoFA2DEo/BR2s2vdpk/lwrVD90=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 2.class
+SHA-256-Digest: UUuLJkdSzcZjrVUWQLOYj5dx8vM4BGUxmryID3JaZtY=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/FDGenUtil.cl
+ ass
+SHA-256-Digest: Qtih5X2id8FG4+zJlMcyVPN9CXDxen0TBNd2fakHhfA=
+
+Name: com/gildedgames/orbis/lib/world/instances/InstanceHandler.class
+SHA-256-Digest: Y6+ATjgn4sPeBmRQC2b5FWOKOP9OnJZorbaYra5nPE8=
+
+Name: com/gildedgames/orbis/lib/data/schedules/FilterOptions.class
+SHA-256-Digest: qlCIDtDzZXcGSsIb67265P53CvOWvPvIUxj8hVNnsrU=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectFunnel.class
+SHA-256-Digest: p2JjrxirWePUPfdctGPD20+W27RViMiTJmYjIq1NL5s=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataManagerContainer$S
+ torage.class
+SHA-256-Digest: hTTub0IzWieh37RlJFzN240u8owYkJPAwJymZihtsgg=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataManagerContainerEv
+ ents.class
+SHA-256-Digest: d1qygkZ7XIwhHT6maoLR0Xn+PIanX21ty03iZJAO7PI=
+
+Name: com/gildedgames/orbis/lib/core/ICreationData.class
+SHA-256-Digest: PYh0vOi8HsYCFn7UpcpRhG77C6i39IRRZEOEZ9L7pHs=
+
+Name: com/gildedgames/orbis/lib/network/NetworkUtils.class
+SHA-256-Digest: 1XoI4J0zfMRfhPVDfAeZN2Zi1Al5px/lc09Crjf1ig0=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataManagerFlat.class
+SHA-256-Digest: cXelupgSW1rKjECZGiC1N2ESrvVxHRgqZD3PqUcmzNU=
+
+Name: com/gildedgames/orbis/lib/util/io/Instantiator.class
+SHA-256-Digest: Y17uvARBUfKYM5A5/D9jvXueHOR9Gd3IBMyDia5TC0s=
+
+Name: com/gildedgames/orbis/lib/data/shapes/CuboidShape.class
+SHA-256-Digest: Nt7gromQBcfevlo0gy6Cz0UteXnPF2AtGeTqJS+lr50=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVarDisplayContents.
+ class
+SHA-256-Digest: rf//PeP4qv7meOnsjCiegaJqL8IYT9Z2E3OtunCQl8M=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberDivi
+ de.class
+SHA-256-Digest: r259vz/Ysu+tMhyJmEJeP2FfVLFiqlUYJjSUI6jZdy8=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleRecord.class
+SHA-256-Digest: 5R31t5l7Zyd81oz2PbMpZM8w+27D42QmM0abcZrJYmg=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectCache
+ .class
+SHA-256-Digest: emAAO3AR89XcDbf1ATH3OzUQWZ0wTRMJmZO+2MxUgBY=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/decorators/GuiScrollab
+ le$IInputEnabledOutsideBounds.class
+SHA-256-Digest: mPq4Fax3DOlFkCHdE5SmIG1pzRDjMJGZd9oG+Po5x94=
+
+Name: com/gildedgames/orbis/lib/processing/IBlockAccessExtended.class
+SHA-256-Digest: kb2oGGuz0rg9Es7PWUzkFxzZAJ1uJSnQUmug+qMSdB0=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVarMutateExpression
+ .class
+SHA-256-Digest: zkByR4fp3FWL0uFvBEUHwKaBga6U+MrK57/uxqrpn5A=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/GuiCondition
+ CheckBlueprintVariable.class
+SHA-256-Digest: 31LKtKurGc5D/KHmG3jB2rH3vo2VqOTZ2dqAlvgYL2s=
+
+Name: com/gildedgames/orbis/lib/data/management/IDataCachePool.class
+SHA-256-Digest: RgLSbBDjZsRVvoymOBzC0LgAyn2OlM1A9G7/5OuHRZ8=
+
+Name: com/gildedgames/orbis/lib/data/shapes/CuboidOutskirtShape.class
+SHA-256-Digest: Q1PanlA6iSLEYy6oLm07FNXE0IIsx52eOjQ8p5GEvAo=
+
+Name: assets/orbis-lib/list/delete_clicked.png
+SHA-256-Digest: gQO9wQYN3EiyywiOwxZGvnxSAT1VlZMGC2qLdZWG68o=
+
+Name: assets/orbis-lib/full-logo.png
+SHA-256-Digest: M4TyzcB1Zg5mHxeSfjo9kCIrxCJkPK3Aw0lOmbC7NSg=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintVariable.class
+SHA-256-Digest: ocSYsD6aVluRyRzIL449o+I9seIOryJjRylKzJeuP8g=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiFrameUtils.class
+SHA-256-Digest: gle1NGPhUQu7OXqYA/CVyupb8EwFKlhM6xqS3BWiyj0=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberE
+ quals.class
+SHA-256-Digest: lx9QqSvvtEnWAnuw1T75KyGnqZCuYOqu0845dIPolnQ=
+
+Name: com/gildedgames/orbis/lib/util/cache/FileSystemLoadingPersisting
+ Cache.class
+SHA-256-Digest: WLDYU6LJqLegECrMQQSL4ckuOo7kyTtvWLGbmFOACAQ=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProject$Proj
+ ectDataWalker.class
+SHA-256-Digest: xlwAl6N/r15/bfbHV5nx7tu8TyE3SXDBHgfYzU13Skw=
+
+Name: com/gildedgames/orbis/lib/data/pathway/Entrance.class
+SHA-256-Digest: 39KWWLcYexdPVJ9ih8pY9sXZ3cVo+tNS7o4sB/1Ge+c=
+
+Name: com/gildedgames/orbis/lib/processing/BlueprintNetworkGenerator$B
+ lueprintNetworkGenerationStep.class
+SHA-256-Digest: gVZDhhFz7wAkZ/N9TGMCjiVCeB+5hK4czxy+iV2AbRk=
+
+Name: com/gildedgames/orbis/lib/data/management/IMetadata.class
+SHA-256-Digest: Ql8Vd65/wxDZrXCeqqFOsDdFLFCGVTEv47pfgwMDIo8=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintDataPalette.cl
+ ass
+SHA-256-Digest: LjIJSW17Asu9G8hYn6csVS1QvdpHMvthN1oYPLP1q6w=
+
+Name: com/gildedgames/orbis/lib/block/BlockDataWithConditions.class
+SHA-256-Digest: bgXtBGBCZveOdOgrVe0hIMYB7QGoehlmZvHZxgIAWHY=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterHelper$1.class
+SHA-256-Digest: Op0z6GlN0RkzFy+pANYBt4k1EFR0wvLr3rDfJkm3svI=
+
+Name: com/gildedgames/orbis/lib/processing/BlueprintNetworkGenerator$1
+ .class
+SHA-256-Digest: sOP78v5dc5zfhBUHnJ3KgiSnfSvDpW1Og1wClnS1Gr0=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/list/ListNavigator.cla
+ ss
+SHA-256-Digest: g4hASTq5kCuskTr2VroL22KuPwBdy1aREXAVvY6S/cI=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleLayerListener.
+ class
+SHA-256-Digest: ihNqH3L0c6MZHcVhEh+z1Vt/XZ2GejRQ3qXx8/c0PRI=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/fdgd_algorit
+ hms/FrameworkParams.class
+SHA-256-Digest: S4GFHibul3TIDU/Jl2G2ZHzwzsK6m7s+M+pxPfoyBmE=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$RotationHan
+ dlerIdentity.class
+SHA-256-Digest: +3AQiZObKsnv98D2g+s3Z8HkN2yYMnQqFBLlG6VbSzc=
+
+Name: assets/orbis-lib/stack_inventory.png
+SHA-256-Digest: 5lyeujdZEiloIZ5OufIlc9EiYd6MemB/H6CC+XXeHaE=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarBoolean$EqualsTru
+ e.class
+SHA-256-Digest: rq9/k3GZsau1eb/viJcrwam/pYTALCq6xlLXci/aN/Q=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiViewer.
+ class
+SHA-256-Digest: V9WKO//6M+i+RmZD1fy4d++bhItiMGhUQYnACNwpB/Y=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/Abstract
+ Constraint.class
+SHA-256-Digest: Bj+ZxmCBHMK8jzNagpbD2EZ/mGsrG7BVFT/Tl4JdE9E=
+
+Name: com/gildedgames/orbis/lib/data/management/IDataCache.class
+SHA-256-Digest: 65l6D0pUedCYhXrdBE+iZ0CRgKz7xPFA2VMhu5uj4HU=
+
+Name: com/gildedgames/orbis/lib/util/ArrayHelper.class
+SHA-256-Digest: +no5YOFtQOqh3GEse106vRnu0CoTm0vABSZ2Dkwo4Pg=
+
+Name: com/gildedgames/orbis/lib/util/MathUtil.class
+SHA-256-Digest: Alo2gqezlWBted0EHeKAjvD/+BgUywAdDCu9LkOiyGM=
+
+Name: com/gildedgames/orbis/lib/core/GameRegistrar.class
+SHA-256-Digest: VTxkp86LsdbiCpR9cEVYM4fdlDJALVdC+3sTvWv7iQU=
+
+Name: com/gildedgames/orbis/lib/util/InputHelper.class
+SHA-256-Digest: xnbWo6CqtLbsHa2aDq5ZonOOrsJ7ynJbUqMnUsLlVzM=
+
+Name: assets/orbis-lib/list/delete.png
+SHA-256-Digest: t7QgEgBsFeisVqnyVm7JeJn8ayq1aWjgs5VKhuFen1w=
+
+Name: com/gildedgames/orbis/lib/world/instances/PlayerInstances.class
+SHA-256-Digest: PR5IOAzRajOxL6mlVoobO8HM8dqCHzZ6Txb905g50Dc=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiItemStackRe
+ nder.class
+SHA-256-Digest: h0hsSk9ABGSS895d5cSwaMMBcAGpE5VzcFCC0NKIs1U=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/IGuiConditio
+ nEntrance.class
+SHA-256-Digest: I8wGZ/HFYYLZsZI3lvBaQA2B5EBw7b4ev6e4y9IrmtU=
+
+Name: com/gildedgames/orbis/lib/util/cache/RemovalNotifications.class
+SHA-256-Digest: 7S+awP7ULAgDaf0dOuMvA5Kv4t+f1lVXFwTlB1ZCCOw=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ISchedule.class
+SHA-256-Digest: AgVcbDESXAYBkgcI0A/69GD1118xlE1b2phgiNpwi6I=
+
+Name: com/gildedgames/orbis/lib/ReflectionOrbis$ReflectionEntry.class
+SHA-256-Digest: u+cgTIR9FgArrg+TfhBC/uZFmpbIJUSBTFIbLiHAjHg=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiContainerCr
+ eativePublic$ContainerCreativePublic.class
+SHA-256-Digest: lIzkFe1pdaVRkHrcHqwQ1ebPYxQphD646NXCPGcaPRc=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Concatenat
+ e.class
+SHA-256-Digest: 87I4+e7gahF3bR719VChnmuonzWLULZtMdbAiQGqnhc=
+
+Name: com/gildedgames/orbis/lib/world/IWorldObject.class
+SHA-256-Digest: +1faTwRe+hz02PE6+MyGV9PUMHx4ipK05thf2NAUlc0=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleLayerHolderLis
+ tener.class
+SHA-256-Digest: zIQsHKgMkhUUbtZL2aAccGFAyZ1dwuLbYWjQxa5uyVQ=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Replace.cl
+ ass
+SHA-256-Digest: ZgTQw3l+Vd7GADWJqBdjAHfMxKqNIPe2Xi8M1RUhbSI=
+
+Name: com/gildedgames/orbis/lib/core/exceptions/OrbisMissingModsExcept
+ ion.class
+SHA-256-Digest: p/xCU5ePnfEsq88wp766kzde6NtWXKywE670Cdv+drM=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/repeat_methods/ITextur
+ eRepeatMethod.class
+SHA-256-Digest: Oph0gaes2N9hKA/rnAqKrQi5MxeIGbuASEZD7XyK9is=
+
+Name: com/gildedgames/orbis/lib/core/registry/IOrbisDefinitionRegistry
+ .class
+SHA-256-Digest: Pk0v7k4ON8+nsKFUykhFq6i6HAPRY+Y8h5vdefUqnxQ=
+
+Name: com/gildedgames/orbis/lib/network/NetworkMultipleParts.class
+SHA-256-Digest: BamL53iT/qQaje3MlM/GuvTiUKPIYkOvexzUx3l8oDc=
+
+Name: com/gildedgames/orbis/lib/core/baking/BlueprintNetworkNode.class
+SHA-256-Digest: ZrN3bMFhno6jnrRxkL5QAoIVIdamvUFFQNN6b8M5sOw=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/Abstract
+ ConstraintProblem.class
+SHA-256-Digest: gb7EqO1T+KipTSdI3fIzQ7PanaHltU6lfA/ICOTG4yI=
+
+Name: com/gildedgames/orbis/lib/data/schedules/BlockStateRecord$1$1.cl
+ ass
+SHA-256-Digest: 0cHBjvqsAVL/b7XRhJJ5gwm1D2rBdu9il8eSLvR/LQQ=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/list/GuiListViewer.cla
+ ss
+SHA-256-Digest: u1Tyyu/a7ut3raUU0rcEuCqX1MZf+cCF7ON4FvSete4=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IPositionRecord.class
+SHA-256-Digest: hinCnRBopmXRyL0Yj6SxvO/Y3CyR/XirHlUUZLuAEoE=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiText.class
+SHA-256-Digest: hPYGfoM9b0a6G7dIvkfjUZIkJs1s5yxUPHiVtEY+6k4=
+
+Name: com/gildedgames/orbis/lib/data/shapes/AbstractShape$1.class
+SHA-256-Digest: kGWAOyMa4VKcvaf0ISKX4VlqZHIghGjr0Q8Tod2iQdQ=
+
+Name: com/gildedgames/orbis/lib/processing/CenterOffsetProcessor.class
+SHA-256-Digest: myszmPJUlNmruu4zA7FvNRZzrw+57msT20mINJKw3D4=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$RotationHan
+ dlerCounterclockwise90.class
+SHA-256-Digest: iz5NkK6bZCPnfNmDjeBoMw8sQoKszXaU+FX3Ubt6HeE=
+
+Name: assets/orbis-lib/list/scroll_knob_disabled.png
+SHA-256-Digest: GfXfGXqIlRoolPCBmdslx7inbG1BKjFAUYYsYXnv5Lg=
+
+Name: com/gildedgames/orbis/lib/data/pathway/PathwayData.class
+SHA-256-Digest: QBThTOid8WQJNvshqVQShWhjsLNbXJRDRy0vpO4PC2g=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiLine.class
+SHA-256-Digest: UUfVzftAEcleqYwDJAIc+ucmGc2EjKeACjZp4q20U1w=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiState.c
+ lass
+SHA-256-Digest: RDpOvaogB860yb3I4a/IrCYbwKAm8iVw1Unmd96vsXE=
+
+Name: com/gildedgames/orbis/lib/data/json/JsonData.class
+SHA-256-Digest: E3klMJHPdWCjKCJaLsNLbcFX2AMib2WG29k7qL8OWys=
+
+Name: com/gildedgames/orbis/lib/network/instances/MessageHandlerServer
+ .class
+SHA-256-Digest: BNeaN7c5hQ9q6ZlFuegh2D5L8GzZUcxlhObhbR4L+iQ=
+
+Name: assets/orbis-lib/list/delete_hovered.png
+SHA-256-Digest: K4jmZ3CWNnQuDET4xg2dt7D5xmo8m/L7cFCqZztUkKA=
+
+Name: com/gildedgames/orbis/lib/inventory/InventoryBlockForge.class
+SHA-256-Digest: BwQwsz1E9bqPQGAm16mdariJOJdALTb3Lu+xg8WZJ38=
+
+Name: com/gildedgames/orbis/lib/data/shapes/DomeShape.class
+SHA-256-Digest: EUs5CC1PXqW+18Gc4w2qpEQNfdkDYUuJmTMMp95pVQE=
+
+Name: com/gildedgames/orbis/lib/CapabilityManagerOrbisLib.class
+SHA-256-Digest: 5QuWRT4EeNOSwwQALNDI1DgNBdoeO6zse6Nj3VXGnxU=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVarExpression.class
+SHA-256-Digest: 3LZ333vQHd2SxWTTKV55NkCsOucgGCV+RK4RMuOH/iE=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/GuiItemStackCh
+ ooser.class
+SHA-256-Digest: L2pAchY16g+LOJaeWH752+fYPH9YDBrZmyG38Jwta+Q=
+
+Name: com/gildedgames/orbis/lib/util/mc/BlockUtil.class
+SHA-256-Digest: XfgiFuWT67wotkZ6q3WA6yRn/zB6udadq3+kjo2r2JI=
+
+Name: com/gildedgames/orbis/lib/util/random/XorshiftGenerator.class
+SHA-256-Digest: RCco0fVIX/itXZ4UJ8Yk5NbxrQEX3L9LIozA+Q53UXk=
+
+Name: assets/orbis-lib/list/add_hovered.png
+SHA-256-Digest: y+gEF0eEEjv7C9DQmdbHsGPkMGDPYsozwTwTgbAw218=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$RectModificat
+ ion.class
+SHA-256-Digest: nRiK+dEgMvx8kbsqLO651L1YeLmzA70AFPR2Yrk2EN8=
+
+Name: com/gildedgames/orbis/lib/processing/BlueprintNetworkGenerator$I
+ DebugNetworkPainter.class
+SHA-256-Digest: xDnPAru8ehFlca0SkqU+8lhzoqrf5MRX/lngD/WQJlM=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/IDropdownElement.class
+SHA-256-Digest: QxcN39eMe6T6Sj1kERio/8/YTPp+HY5AWMXiqMF2R4M=
+
+Name: com/gildedgames/orbis/lib/data/region/IShape.class
+SHA-256-Digest: EbFkPVUMLBQwZQgM7sSWJM4ztGzhTtSAJgRcALSawPw=
+
+Name: com/gildedgames/orbis/lib/core/util/PostPlacements.class
+SHA-256-Digest: 7Z6Pv6UOvAyhLDgZ9i74XxtlY4KcTQ5luqt/cfYbFjE=
+
+Name: com/gildedgames/orbis/lib/world/WorldObjectManagerEvents.class
+SHA-256-Digest: q2Xul3TmDJwCJpktYP6rXmptJ0A0JuYpsgMo2Z/157A=
+
+Name: com/gildedgames/orbis/lib/processing/BlockAccessExtendedWrapper.
+ class
+SHA-256-Digest: K69WeNO2SC2Ny5XgqlIUh+hwgGZOSXNlXQ+8VA6+vrs=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$1.class
+SHA-256-Digest: ALhjFkIwyNJ76aAkc7972pFSzP1cfUBVPZXq1q081A8=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/IBlueprintNetworkDataLi
+ stener.class
+SHA-256-Digest: UaTP2NxrO40riM0Ygn5B1cd5+uWoZPoV6f42FyZmFyM=
+
+Name: com/gildedgames/orbis/lib/data/management/IData.class
+SHA-256-Digest: Oi6vd1R53pIw08Cs06LHjZoOLQ/yyMQbGIAhFYmftI8=
+
+Name: assets/orbis-lib/list/add_clicked.png
+SHA-256-Digest: OK/fmJ4RvpZlhKbFrM+cqU8BGFGLLcO7BTzWEXRd5/s=
+
+Name: com/gildedgames/orbis/lib/core/registry/OrbisDefinitionRegistry.
+ class
+SHA-256-Digest: Gn5Csq6bIqWTzBxrHCX7VCNYaAVLIj/EE/3kZ5QNEK4=
+
+Name: com/gildedgames/orbis/lib/IOHelper.class
+SHA-256-Digest: xq6ZECZDnBSlKmCGuMum/2tpKsH+jtB/vmARzF0r1AU=
+
+Name: com/gildedgames/orbis/lib/data/shapes/PyramidShape.class
+SHA-256-Digest: 9Ou4AVJoLQaiJEm3/lAJFYZvBXEb7INassOQaZkb7P4=
+
+Name: com/gildedgames/orbis/lib/util/cache/FileSystemLoadingPersisting
+ Cache$1.class
+SHA-256-Digest: BkdFrZPGxETHuRe67lUQ17Gr+2/NKvcuQwz2wwg36ck=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Se
+ arching.class
+SHA-256-Digest: XezqaKLViChNxFlFgPU2B73jl2Un7VSARypS4SR+Yco=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiStateL
+ istener.class
+SHA-256-Digest: I2hF80oQi6UIrOWywxCwTWg8bR8SyMWDMBnzBzDO8fo=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiButtonVanil
+ la.class
+SHA-256-Digest: PHpF3rf8cCAHk70fHuoJuMA2pMgd2O2ndBAgCaX4OS8=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/IDropdownListListener.
+ class
+SHA-256-Digest: sKKoCzE6q8VO/fBrNk9An2Z9dSS6QMd1OPCsLS5i6zM=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberG
+ reaterThanOrEqual.class
+SHA-256-Digest: XLzneM3LKEZF4ymn5uY27PEHoBaI3bfjss2frHLdnp0=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectMetadata.class
+SHA-256-Digest: Q891tfRpKW4V0ahV8sgiEDIGuFjJY+0r7B2bkXnu+aM=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterHelper$IBlockRecognit
+ ion.class
+SHA-256-Digest: TkTAVaSVImAY9KT8cHK6yxV4hbBR8ZmPlakZGy1FfpQ=
+
+Name: com/gildedgames/orbis/lib/data/region/AbstractRegion.class
+SHA-256-Digest: 2aYrLgw7y8Djv4B1NS3D8X7ZWBYeMPH/n4JW+ySCS8I=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint.class
+SHA-256-Digest: Wu0czaTgzQWMQO7gDVN9kL9/DNhNXXHENchQmdef65Y=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectManag
+ er$3.class
+SHA-256-Digest: cjGZ0x9Ty19c0veGQQBlzpWI3jGjizCy1SmBhRVceOE=
+
+Name: com/gildedgames/orbis/lib/client/rect/ModDim2D$1.class
+SHA-256-Digest: DzKuEJLVz6/5qxH2aD2uSi7YCy4pFlRKI4D5pP3LpIQ=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableCac
+ he$Loader.class
+SHA-256-Digest: qf221neWUN850isaXXOdiQonVh1pBNwI4XQBmYHrjBg=
+
+Name: com/gildedgames/orbis/lib/util/mc/EntityUtil.class
+SHA-256-Digest: wwrUTh3ulN8LsR/k+XNxw5hj7Lbt0uc4Nn3E7wpn89M=
+
+Name: com/gildedgames/orbis/lib/util/mc/SlotHashed.class
+SHA-256-Digest: EssewPy4Y/4BLL3cGonLnjIZJtcVG25zbszbbv4ZlSk=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberDecr
+ ease.class
+SHA-256-Digest: rH33kz3XxOsWXjG5q0IH1RPjArNoZAAlH7iqdy9FUYY=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/GuiCondition
+ Ratio.class
+SHA-256-Digest: OUD7hEXYvlxb8vzl6GNJULB/wqbV/lkiI3fQBpEU+58=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiTextBox.class
+SHA-256-Digest: WrHzz9MrTNhVQiVRlFuL3kKqAZgWrmdTqGRJ7XrzlOY=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectSeeker.class
+SHA-256-Digest: UuJUAjbtw48I+sJD6rCTWtdbyqG9OcPYLb56r45k7Ug=
+
+Name: com/gildedgames/orbis/lib/util/mc/StagedInventory$Locator.class
+SHA-256-Digest: lcvVXXdx1N5QfR61Oaapl+A3lDjN7w0IeZuM92bVVbY=
+
+Name: com/gildedgames/orbis/lib/data/schedules/PostGenReplaceLayer.cla
+ ss
+SHA-256-Digest: lNdwHTLSfbpC1CF3B2hDFezhjW4/qLocdv+tJdYr1Bk=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleLayer.class
+SHA-256-Digest: bjCvej4GfTAgW6tRkwtC81IS+aEAgV/yOBnIxmKOEks=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarDropdown.class
+SHA-256-Digest: SOxLR7txknYBkkBoJ+B9lHQffPPZFPO5EuULNMV96G0=
+
+Name: com/gildedgames/orbis/lib/util/mc/StagedInventory.class
+SHA-256-Digest: sTSdrOFthzF4X1DINzhJtFcJ3HZlrNQzPWwxMjX0R1E=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$1.class
+SHA-256-Digest: cp/6q7y8KQ5osr4Nbc06IOq1BlzxIzG3vLDdFFmZTGE=
+
+Name: com/gildedgames/orbis/lib/data/management/IDataLoader.class
+SHA-256-Digest: 4dexEWf6Kv7e73g0jScK/Qd2BA0YGPTTIikbXy1W52E=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiInput.class
+SHA-256-Digest: pCIaRQVwwB7wRGY4eG+TNDZkgPsmOT77RY1ESFLcZaU=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 3.class
+SHA-256-Digest: 38Pu9pwGpo8ztUSVM7GB2cs+pbLagqB5hlzNtHsuuIM=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterHelper$BlockDeleteFil
+ ter.class
+SHA-256-Digest: iIdpCGoOkfnPbReNB7YiURc2NYMD14iUzc9lv/r8Dds=
+
+Name: com/gildedgames/orbis/lib/core/variables/post_resolve_actions/Po
+ stResolveActionMutateBlueprintVariable.class
+SHA-256-Digest: d92g3Seg8vNsNC8tWEj3cO9aECshnVC1SBDWVzs0Amc=
+
+Name: com/gildedgames/orbis/lib/OrbisServices.class
+SHA-256-Digest: rVoLpwSHi4vdGBzfIy+ZR+CDBfKQgaLItwS09yZEIiU=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintMetadata.class
+SHA-256-Digest: UAeEGYsVpgrOkf1xhnpYKkYF6xWVgsXuXQScfMzCvmA=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectFilesystem.cla
+ ss
+SHA-256-Digest: XK1bZXWS/zOx4iLELIQ5gkzqTDYHc1Huj0c9QuRUlhU=
+
+Name: com/gildedgames/orbis/lib/processing/BlockAccessVirtualDataManag
+ er.class
+SHA-256-Digest: Shr8UwMe34ih/4+0gWe8pA+MI5U9086t2Fd6dX1qytE=
+
+Name: mcmod.info
+SHA-256-Digest: 3V+GTN+3s60y7zYa0j8nHXFmMiYwnb6ovyhJwws1XQE=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Pa
+ thwayNode$1$1.class
+SHA-256-Digest: Nt7355rfisWjcMgbQPaOdm2FRZy/hj9xRQox8wFwaWY=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/AS
+ tarNode.class
+SHA-256-Digest: LXuFLllF1HNvTUzc85/n7rimqOQScOAjBsv8eT5Z7Uk=
+
+Name: com/gildedgames/orbis/lib/data/shapes/CylinderShape.class
+SHA-256-Digest: dqSLaY6B97lGrbhCYUMGFTMJ+7gVe0/xJZTCUiJHxEQ=
+
+Name: com/gildedgames/orbis/lib/data/framework_new/IFrameworkNodeDefin
+ ition.class
+SHA-256-Digest: l3oYyxh525FCNz/Y1xFLAjhcLtaq01hmDPHQanI9vCQ=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilterType$3.class
+SHA-256-Digest: J1BygBuzxmuUdKlYL6g0jSSMte/CvMF6EjHDNpfabtQ=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/repeat_methods/Texture
+ UV.class
+SHA-256-Digest: k3GfO9fAEFiKt1/dhNVmddlibSjmL2ifPHgUGYCGGFg=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiElemen
+ t.class
+SHA-256-Digest: xxRt4t/7lNyUv2fsL5ZccuqHi7DdpFIEtWL39A68LF8=
+
+Name: com/gildedgames/orbis/lib/core/tree/NodeTree$NodeIterable.class
+SHA-256-Digest: UlXzEyRt6SOYhsEY/2pPEuF5Va6njKd18VXpQxDvBU8=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintData$1.class
+SHA-256-Digest: rYSpqai2vfBhCX8GlAhaP87lsSYcprqst7lmCxIdvnI=
+
+Name: com/gildedgames/orbis/lib/client/rect/Dim2D.class
+SHA-256-Digest: 3eg9Rsn0v7OKvo1PEdOGD6lxT+f0/5XvqKSCbn8gMII=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiDropdownList.class
+SHA-256-Digest: UFSss0XRr5U9MDTzVuo0AN/gOO9wUh+8KR3CHzdtPlE=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/decorators/GuiScrollab
+ le$1.class
+SHA-256-Digest: 8qT2nv1t0OI6kKpeQ1kRvyKSgovTClz5c8zVm/S+Cgw=
+
+Name: com/gildedgames/orbis/lib/network/instances/MessageHandlerClient
+ $FutureMessage.class
+SHA-256-Digest: 49UVEvfaxlTP4tBfcgEmAjYMuHxb33QTmuapZRIDhnA=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectBuilder.class
+SHA-256-Digest: pmTA1sjGvkWZ2Mmbw2HeJ8zU/19/BiYRjxfpsG2oNDE=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/Constrai
+ ntAllDiff.class
+SHA-256-Digest: eOr7duS/SWQ1K10uwJVRZ25knp3tWDmVXsKzqnWa9X0=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectManag
+ er$1.class
+SHA-256-Digest: ACHXX6OWFvjf4XvT8Gy96MouDOWHYGaoB1c4aixNvX4=
+
+Name: com/gildedgames/orbis/lib/util/RotationHelp$1.class
+SHA-256-Digest: 63jAqZbZg+wMttSrgh9+Wfww/w2dEP1AwWcET/Vx3ko=
+
+Name: com/gildedgames/orbis/lib/data/management/IProject.class
+SHA-256-Digest: CDIGflX1rEUUF/weww9xL/sXg074AKoK1NfxfsI3KnA=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/IGuiInputListener.clas
+ s
+SHA-256-Digest: bnb2yQBNcu03B91Vo89hYwCi1XY1T97mftYLOkpqH88=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarDouble.class
+SHA-256-Digest: pokWae9FwqfjPnlou0IPeJePEWtZlYdknZre6xc5E7A=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 8.class
+SHA-256-Digest: 4dd1wg6alzm9ITCdIwpYjNW4Sy81mTwn7rt3spD7ShA=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectListener.class
+SHA-256-Digest: 4ftl2Nt9A2hPU1zfHQJJvsYNJQSFGTx4zEJ4D7CmPno=
+
+Name: com/gildedgames/orbis/lib/data/schedules/BlockStateRecord.class
+SHA-256-Digest: Ngl7KJBbTBaSNxp0cTt1GRxln4J4O/95rz9sM4oiEsw=
+
+Name: com/gildedgames/orbis/lib/data/management/IDataMetadata.class
+SHA-256-Digest: kF7u9Hb1M1OLgPz/3nElhLKNJdKhk8/IunF7sxzakRw=
+
+Name: com/gildedgames/orbis/lib/core/PostPlacement.class
+SHA-256-Digest: iEpKsrAtfsezX1Xr5NfAtiZhBayK+aKHuwqpzIuMUIo=
+
+Name: com/gildedgames/orbis/lib/data/framework/FrameworkData.class
+SHA-256-Digest: Mt+BgD0fBJQDWG0C/UqBzfC1bzDMQs+T+Pi9u4IpxIA=
+
+Name: com/gildedgames/orbis/lib/processing/BlueprintNetworkGenerator.c
+ lass
+SHA-256-Digest: +J9U5jv3fIIH0JdYpdH81poD6voiDwg0d2Lq8d2rvpY=
+
+Name: com/gildedgames/orbis/lib/OrbisServices$1.class
+SHA-256-Digest: 7LEtK4z6g6ToaaLVrI9SOcHzj0G+D40BhLMvXsQzZTs=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarFloatRange.class
+SHA-256-Digest: OFLJbb71/SQ1LTRZPZoTcFj90sqJxmcL6uDNlsJ5CNc=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiDropdown.class
+SHA-256-Digest: eRnV+8UX5odeKbNyf7rm4ALJtsqDUoKVqQyoZXrFktw=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractLoadingPersistingCa
+ che$ValueLoaderFromCacheLoader.class
+SHA-256-Digest: T+ykPJMLJcxxnzmPa5c3MZOUuuLdiixjKeZE6eBW2UU=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/fdgd_algorit
+ hms/DeprecatedFDGD.class
+SHA-256-Digest: DwxJvg5wXrCTrJXJYooYkPkeSJmbdMGGIw/zCGifgOk=
+
+Name: com/gildedgames/orbis/lib/network/instances/MessageHandler.class
+SHA-256-Digest: x5YrJ2498ckdX3boexzwV9N5HQqwkkqZJeW8Fno7LBM=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketUnregisterDime
+ nsion.class
+SHA-256-Digest: h5ArqTNaHGvJ4TmbS76KGoj9eRHlXJVYVCEeSHVI7yo=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/IS
+ earchProblem.class
+SHA-256-Digest: mKQSnMJCgt5ivF7UYFNxq7d4Mj1JkxqU43vvTNrbZT0=
+
+Name: com/gildedgames/orbis/lib/util/mc/NBT.class
+SHA-256-Digest: YrT9jxibiyiQZ5PrmXeR3vnBk5JQUeTxzGP0GmqBu8A=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 5.class
+SHA-256-Digest: vhCuIMUog79BSqHaItJg5oc1zlV41O7PgrqWRlnGdaM=
+
+Name: com/gildedgames/orbis/lib/world/WorldSlice.class
+SHA-256-Digest: QnBPzx4qNeSxPg2fERyakIySsWtzkMMAqiZXdDmYohs=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/directory/IDirectoryNa
+ vigator.class
+SHA-256-Digest: va6v92hlP8HxQNaDDQlzCW9aVJU3qPXz/YR9IDOuYTY=
+
+Name: com/gildedgames/orbis/lib/block/BlockData.class
+SHA-256-Digest: Ic3K5lcChXXnUCDUeGy9/f1F1B31MVyb0lnHCFfP/bg=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedLootTableApply.class
+SHA-256-Digest: CgJxFC76Lc1rIPwR5oEIY8w0hGlZrgbyJpZOyKea8rg=
+
+Name: com/gildedgames/orbis/lib/client/rect/ModDim2D.class
+SHA-256-Digest: Q4mHyQhZNhuzYxzD35kKNP4L7V3gIJiRvianNHUBAlA=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/ProjectFilesystem
+ Classpath.class
+SHA-256-Digest: H5Hsm3aBcoBpxLYzuHoJAUDxMrbbpcH6nTvFrGRrhrU=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IPosActionBaker.class
+SHA-256-Digest: l1RDkaz3p1PNGgidL9pNSiXsh/apom4dXh9uOS6XkGk=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractLoadingPersistingCa
+ che$1.class
+SHA-256-Digest: cW8OUwyTmuuFfAKyCCwUVNJjcoRgXV4F92aS82a6rwY=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiFactoryGeneric$2.cl
+ ass
+SHA-256-Digest: saImRxnupj9lVjf+JLe1yX8fpVY6xT/V9LgNALP1Elg=
+
+Name: com/gildedgames/orbis/lib/world/data/IWorldDataManager.class
+SHA-256-Digest: ZrlFvw3rqt4FyvQmuZs7Cmqex081VPtTwJ8YHuGHhis=
+
+Name: com/gildedgames/orbis/lib/util/mc/NBTHelper$1.class
+SHA-256-Digest: RUP3MMrwehfJzVYe3a9Pd9ImgRJ3z2pA2zOusBsNOKI=
+
+Name: com/gildedgames/orbis/lib/world/IWorldRenderer.class
+SHA-256-Digest: KWGvCLqRuS8HBF9T/YDPBIWUYyRQtRdR93OPfAQuwEs=
+
+Name: com/gildedgames/orbis/lib/util/mc/IText.class
+SHA-256-Digest: Qz6VdHN60iT6BPWZBlb18sZ4M9hf3d/HzOsoQBZoVhU=
+
+Name: assets/orbis-lib/list/scroll_knob.png
+SHA-256-Digest: b3eiRj6x1eUNsQWdEU7jryHkCzaECmhPYcvpVDTQ8KA=
+
+Name: com/gildedgames/orbis/lib/data/schedules/FilterRecord$1$1.class
+SHA-256-Digest: O1LuU+b1Ae4urX7BCxqpOgXy72PLzQPvHMSPRJtpS0c=
+
+Name: com/gildedgames/orbis/lib/client/rect/Rect.class
+SHA-256-Digest: Or2OSj6Q4mabvbpbUznz7s3m4K7+RQSHNoyTm+U2njs=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiAbstractButton.clas
+ s
+SHA-256-Digest: 5yHimmdTf6p8zLsPNQrWc7L3QMZSNbmNmhGlLaQpg1Q=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectGetter.class
+SHA-256-Digest: Tt0qJkkJntRknrsnn+JA91ekIbakyZDchAPsgBRXN6k=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarInteger.class
+SHA-256-Digest: yO/VfoO0A9PS8TPYJu81DfWZ+Ds/AIPahI0a5f6JadA=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractPersistingCache$1.c
+ lass
+SHA-256-Digest: 5QSORlPuX8zqc6j2VcJriw7nnQ5RX7zYBZ31SXd6sRA=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractPersistingCache$Per
+ sistedStateCacheLoader.class
+SHA-256-Digest: TETVGc8ogqr8aX+kSIl5ZUhe7z4G8nc5idvTFRjr0VA=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/GuiCondition
+ Percentage.class
+SHA-256-Digest: vKehy6/2xIZmhY5jJgvtKcHPqP4Hd6e6D+0C7cYvm+Q=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiTextureRepeatable.c
+ lass
+SHA-256-Digest: JadndLwwAuknaGK8w4zg4LgaB98foShjO/eZ9MQqYpc=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketRegisterDimens
+ ion.class
+SHA-256-Digest: kXYGK0eoVdFdLkGjAfOC3xQT6SESNHCEor2jf8dQzg4=
+
+Name: com/gildedgames/orbis/lib/util/mc/FileHelper.class
+SHA-256-Digest: N6CjhrkfXAPAEWKfjOu3eniZXh8ODfdr7GrO8aoZIyw=
+
+Name: com/gildedgames/orbis/lib/data/shapes/ConeShape.class
+SHA-256-Digest: eLGf4BYq06bXh1f5XyJ3QRXsAFN0PqiuthjMP0oytAY=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractPersistingCache$Per
+ sistingRemovalListener.class
+SHA-256-Digest: DGMni/DSbvhVCxt+LNf4EhVFWP4UCjMUEzw2BFb0/w8=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/repeat_methods/Texture
+ RepeatMethods.class
+SHA-256-Digest: BvglkoB9P+Nc3jDJbDgsQdLVVMbyAoF5Yol55BqkZr0=
+
+Name: com/gildedgames/orbis/lib/core/tree/NodeMultiParented.class
+SHA-256-Digest: ptBT4juoXfBWw9aGIW05Eg5GskBcfUjOj39s+7NQC3c=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/FDGDNode.cla
+ ss
+SHA-256-Digest: AZy2Z9j/xVt+MYic/BGP0JceZU+RGXirYlG9un5IyVU=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/CSPSolve
+ r.class
+SHA-256-Digest: JUldc5LEoAc/wocAoMACPkk3LRpk+m2WEpcpm+xFGJY=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$RotationHan
+ dlerClockwise180.class
+SHA-256-Digest: CIrINz5Sw14Z5IT6zFmoFdx6ytOvI8VlfYfyBVb9Hcc=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/DataCache.class
+SHA-256-Digest: 1Tb/ob5Izvm4vKqE8y9fz45YhUutO5Q1OlBO3KycHQk=
+
+Name: com/gildedgames/orbis/lib/util/io/SimpleSerializer.class
+SHA-256-Digest: fhryf/fjomjlSktMdOIXTiLJqJZ+btk3QmxVAw2W9+A=
+
+Name: com/gildedgames/orbis/lib/world/WorldObjectUtils.class
+SHA-256-Digest: e8J0b1mSYSx+OXJ82tmFaKcycOQ7Ok4vgeyy32HmyrM=
+
+Name: com/gildedgames/orbis/lib/core/PlacedBlueprint.class
+SHA-256-Digest: kGxJuqVCIxvvDKqUt6X62nuT2CE4wDqiJfwikQDlek8=
+
+Name: com/gildedgames/orbis/lib/data/shapes/AbstractShape.class
+SHA-256-Digest: pXyi7LjP4LN6gtgqNZW4kyOpHHF4HeroGNxRsJpKpFU=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleBlueprint.class
+SHA-256-Digest: ct049NqnoY9Gtl0oCUr+M6ge6aornDpAGUvrghbTmOk=
+
+Name: com/gildedgames/orbis/lib/processing/DataPrimer.class
+SHA-256-Digest: ltwDH5pEYckb0/r+n9YLWmsa2gVI262MjA/6hbbZf9s=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Pa
+ thwayNode$1.class
+SHA-256-Digest: 90KW2WbYukoZcgPqW+0Rf03vwjpKiEawEJ+6ZoYiVy4=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier$ModifierType$
+ 7.class
+SHA-256-Digest: aPxZm9flD5a5pKQvz7CGxts23Ug9GLcZacnFwGNDBd0=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVar.class
+SHA-256-Digest: yFJtk3zWdaEGa22oj5noCSie6XmLnG0XK+bARVyop+Y=
+
+Name: com/gildedgames/orbis/lib/data/region/IDimensions.class
+SHA-256-Digest: ZAbFT8U/a3waC4xjXBySyaMbPjpuSzmwBbisWKGmFjg=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProject.clas
+ s
+SHA-256-Digest: KCtzGBK8HaqS4iDSwUTyPVsK+SmsXJsE+q3iRxjQIcE=
+
+Name: com/gildedgames/orbis/lib/util/RegionHelp.class
+SHA-256-Digest: PvYmJipENaIbyKp0OJXbDCcTOP+xm4GIGhKxopzzGjI=
+
+Name: com/gildedgames/orbis/lib/core/variables/displays/GuiTickBox.cla
+ ss
+SHA-256-Digest: GqsdrWRKH/JtrafvJahJ/XGhVqXWyZTIyVU/rxw5AIU=
+
+Name: com/gildedgames/orbis/lib/util/io/IClassSerializerRegistry.class
+SHA-256-Digest: Lbw6DzFyqflQIWk6yHLYpLmWp/mumhp1J1O0TEmJuas=
+
+Name: META-INF/fml_cache_annotation.json
+SHA-256-Digest: FjXjebmKijqcx5U3rEpm/t11t+D+5ZiXeNPC4Sz+CCU=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberSet.
+ class
+SHA-256-Digest: poUlMqCwttnne7Ls7GCgU/p02DY6SfQy2944feim0CQ=
+
+Name: com/gildedgames/orbis/lib/core/BlueprintDefinitionPool.class
+SHA-256-Digest: CJ1tPPfV926fl1IfuDerhQvW8ryAztYMJpBOSa7+EiI=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/St
+ epAStar.class
+SHA-256-Digest: VcNNKINdXJKVMmG9yS9zpGnDfDzgown0SZhwKQuU3m8=
+
+Name: com/gildedgames/orbis/lib/world/instances/IInstance.class
+SHA-256-Digest: lGMJwRXcmwfGtjuZBxFNHUrqZU7H4Zm1F1IXcxB6tYA=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleEntranceHolder.
+ class
+SHA-256-Digest: JEHn4cT/6jobnR9P2vtQosplUyuxsqOPGDfSEeXb1uQ=
+
+Name: com/gildedgames/orbis/lib/network/INetworkMultipleParts.class
+SHA-256-Digest: BitgyK1ReWe5fuo3/PTM7aBtJVAuVOhgHC4yPtlt1yc=
+
+Name: com/gildedgames/orbis/lib/core/variables/post_resolve_actions/Po
+ stResolveActionMutateBlueprintVariable$ResolveAction.class
+SHA-256-Digest: /MJ5+OO4DuvZDSsQRgRh4RJmTCTujjl1dP4qWYS5INs=
+
+Name: com/gildedgames/orbis/lib/util/cache/FileSystemLoadingPersisting
+ Cache$ValueLoaderFromCacheLoader.class
+SHA-256-Digest: IWYER2Ck36c1dsK8MqThqA8kEEjr0IySyZYqkd2+eRw=
+
+Name: com/gildedgames/orbis/lib/client/rect/RectModifier.class
+SHA-256-Digest: H5tbsdUzc1toaRKDyI0VZpJkFrd2iVYq0PCC47SBkyo=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiContainerCr
+ eativePublic$LockedSlot.class
+SHA-256-Digest: A6b2I2GjiduuFkrWOFC+BedUr+GvHGnl+VxNvmJBd+s=
+
+Name: com/gildedgames/orbis/lib/client/rect/helpers/RectCollection.cla
+ ss
+SHA-256-Digest: xb7n9aygjJLDUpymjzp+pG3iJXQCN5cH1UT2wbZl8kY=
+
+Name: com/gildedgames/orbis/lib/OrbisLib.class
+SHA-256-Digest: V9LJ5saSVUkib5zaEjhpVM4PQQ2uKKWUPtPebtAoClM=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiContainerCr
+ eativePublic.class
+SHA-256-Digest: /FvLIPsRcQFQnhfC7WzGPjTv8u8yavs7HfEm4To5ONs=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiEvent.
+ class
+SHA-256-Digest: jGWoFQsaZ6i+RMCD8KZWgfuPFc20uolx+QLuUagFDbQ=
+
+Name: com/gildedgames/orbis/lib/core/world_objects/BlueprintRegion.cla
+ ss
+SHA-256-Digest: doVcS1OCz79iDREgQvQNg7tQxWmlvRhfCtblVZKul6w=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleLayer$1.class
+SHA-256-Digest: uNuEZilapwo4XELBqTQOp6tekfXHglk7XE42A+P0ZrE=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Clear.clas
+ s
+SHA-256-Digest: +2TTfYqWtzcCRrJKyfV2BB66gAa+ydL6isdHHKsHEyk=
+
+Name: com/gildedgames/orbis/lib/util/cache/NotPersistedException.class
+SHA-256-Digest: Axi2MjLrEqdPAkYF2Oyi6Hp66JiYcMbEgTqnWAzNRlg=
+
+Name: com/gildedgames/orbis/lib/world/instances/PlayerInstancesProvide
+ r.class
+SHA-256-Digest: /oM/iQBuvwQlrm1ryt9BeluVzF/QZAr8jJVZHeTOBXc=
+
+Name: com/gildedgames/orbis/lib/client/rect/Pos2D.class
+SHA-256-Digest: 3ISZ5QH1tvzvzsTmMJEECbtXFrXRQh9JxOKJGWmxPRU=
+
+Name: com/gildedgames/orbis/lib/util/LineHelp.class
+SHA-256-Digest: 5XBlL0ULa7nuijYEhEJIAVWgpv65gcJr2g81QN7qaps=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IFilterOptions.class
+SHA-256-Digest: QylcP5TLFPF4fsJ1menKqfcAt3umfjcOoQhMIarCcGM=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketRegisterInstan
+ ce.class
+SHA-256-Digest: JYfUQ6QucWRnnF5j01bF/y9EyD0e0blFCqqIXLsrrP4=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/directory/INavigatorNo
+ de.class
+SHA-256-Digest: z0yRCP6CZuL65LUM8lKI0vcRUG2lMBifchmNtj0FoEU=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/decorators/GuiScrollab
+ le.class
+SHA-256-Digest: Z7VlCXJ1SOsayY/WARhplCX/lgQH6kGDKuWxEOV40ng=
+
+Name: com/gildedgames/orbis/lib/data/framework/FrameworkNode.class
+SHA-256-Digest: Ot4Nb3Hn9cmcownVu5UOoc5E8EVU5dVgMfAx+ot8Qoo=
+
+Name: com/gildedgames/orbis/lib/util/mc/BlockPosDimension.class
+SHA-256-Digest: onbWd0VuI1VxBgmSnV7OfcsT6jr7m95xF3m6ULFFVYA=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/IGuiState.
+ class
+SHA-256-Digest: 9CkPLo8LWwAoytfstkGz/OmtSfmKZzOZzavO/5jLd1E=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/ProjectIdentifier
+ .class
+SHA-256-Digest: cEcUPdnlc0tR9bNDETTILfkDA1aDgvegooNMnfzfNXk=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberMuta
+ teBase.class
+SHA-256-Digest: nf4NykcAlH2jD+EBAXAAWIiXQqzlZVMNItL2VDCJuNA=
+
+Name: com/gildedgames/orbis/lib/block/BlockDataContainer$1.class
+SHA-256-Digest: GMPChBDsk7i1tzrU+Zswr4N49/eQDp2eb8XOzBLIJDE=
+
+Name: com/gildedgames/orbis/lib/client/PartialTicks.class
+SHA-256-Digest: I35b4Q0appapObJm3U91//ZWbQtzPlO6wU68WCNMtwI=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_mutators/NumberMult
+ iply.class
+SHA-256-Digest: ICDkP9gIs+CldjeshFNHe+mQcY9K8me8Kjh0xFLGtoY=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiViewerN
+ oContainer.class
+SHA-256-Digest: Yhy0WY0ovBUIb3SBzzVlTeFwhU9vLa0elkfqE446No0=
+
+Name: com/gildedgames/orbis/lib/data/framework/Graph.class
+SHA-256-Digest: KQioOnLEc/NyjLIVuJjXIFTnkWsiR4vK/Lhb0GKL3BY=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableLoa
+ der$LootPoolSerializer.class
+SHA-256-Digest: f8vBdxtN0mY62jQJxM4XpSSQkWHGIXz3WlF1c6DLdHY=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$RotationHan
+ dler.class
+SHA-256-Digest: MoyUwL+R9ACWLfF+kbHaxPIYbdAKKnnH34ZWQng5V50=
+
+Name: com/gildedgames/orbis/lib/core/tree/NodeTree$NodeIterator.class
+SHA-256-Digest: /YyRNLaO1mOumoggTxHw2OItMUSZ2hBYAUVJR6UwHMo=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableLoa
+ der$LootEntrySerializer.class
+SHA-256-Digest: 6oIujNMaB/m2StGhl9uZJjSLJ60R3Vi9aonNHhGVWbQ=
+
+Name: com/gildedgames/orbis/lib/world/data/WorldDataStorageMethod.clas
+ s
+SHA-256-Digest: TlH1sixC9oTz2hMGFWGmMRrrg0v1sWv1dOe9Ry8jxx4=
+
+Name: assets/orbis-lib/list/scroll_bar.png
+SHA-256-Digest: XPPnGKp8uP2K7Qth0+5lLRcEZnw1ZYWYI2IFuQ2teHY=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/events/MouseInputDisab
+ ledWhenNotHovered.class
+SHA-256-Digest: dMdAIaoRLte9NjXSYwkGMgaZ0rYmLAvry/4t2QTUWRk=
+
+Name: com/gildedgames/orbis/lib/block/BlockDataContainer$TileEntityEnt
+ ry.class
+SHA-256-Digest: kLLmm4mNZTYx2jRAGra0JimHhTAUPliO3JgOREUtlj8=
+
+Name: com/gildedgames/orbis/lib/data/region/IColored.class
+SHA-256-Digest: nnwuWlBFEgqil67cbQCefrXVq4/6DfVIO5u4IPAZbOg=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/gui_library/GuiContext
+ .class
+SHA-256-Digest: KdfThEvTi6Uni2RTFwKVEdTotLZwxkfD8iAxQ96LrYk=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/decorators/GuiScrollab
+ le$InputEnabledOutsideBounds.class
+SHA-256-Digest: fkIeYcbF74RTgoVGJZjaVYzxcItRBzrH/zpc6qtJgpA=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprint$RotationHan
+ dlerClockwise90.class
+SHA-256-Digest: O2684pKElO06sM7Z56UalBPDEXHuOgmn8Zb73Xruifo=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString$Set.class
+SHA-256-Digest: WYYuxI6NEvgGoFJ3OCv1pXhEJQQMrrXWBZfPkA2gbLQ=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberD
+ oesntEqual.class
+SHA-256-Digest: C3QZYr40040NhETS+7r0ZhCqMBq/VO9cyB5cgHBQxMQ=
+
+Name: com/gildedgames/orbis/lib/data/framework_new/IFrameworkAlgorithm
+ $Phase.class
+SHA-256-Digest: rblbaffPAQeci1GPanw8vhDYcckRhHXhwXi9OZ39Hzg=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/GuiTexture.class
+SHA-256-Digest: dtUvl3lgpBTT8yD1br9XROm8YMiT40Y2wuuBV93ctn4=
+
+Name: com/gildedgames/orbis/lib/data/framework/IFrameworkDataListener.
+ class
+SHA-256-Digest: x/XbhF1w56u/vVVaYU7w0V5FcX0TjlW4wUbYEZ62CNg=
+
+Name: com/gildedgames/orbis/lib/data/framework/interfaces/IFrameworkNo
+ de.class
+SHA-256-Digest: hpDkhjmyS1jTMIFSbEHSCXXnXkU04Q76Wzuqk93TkWU=
+
+Name: com/gildedgames/orbis/lib/block/BlockDataContainerDefaultVoid.cl
+ ass
+SHA-256-Digest: kVj+wjXJZ3PyfPDJa1B2inX5g7KWCO0uJezQSKrUW1M=
+
+Name: assets/orbis-lib/list/delete_disabled.png
+SHA-256-Digest: KpWayfVqvOPpgs+dZMRp9oVDTwoL/Ajj7FyA1scwI2o=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/list/IListViewerListen
+ er.class
+SHA-256-Digest: iWc4zhYelNjlSlDcH2m5hcrH968zva/7PjZIiG2nx1Y=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/list/IListNavigator.cl
+ ass
+SHA-256-Digest: ZVjIYRgqTYIgEw6myOnl/jvYVKXsspMA+y3Z0/schbc=
+
+Name: com/gildedgames/orbis/lib/core/tree/INodeTreeListener.class
+SHA-256-Digest: lx1AgiHs/Cyahg29YdhCBbBmUHXByHIwOJeLFEQpRxA=
+
+Name: com/gildedgames/orbis/lib/data/region/IMutableRegion.class
+SHA-256-Digest: k5WQtAwUBjKLvFE3yUWVDQ0Zh/LEPS1wzskgQTFvlO0=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableLoa
+ der$1.class
+SHA-256-Digest: HyQ1WleWrKUM+aGGqHkB+Uhai4NffHFDhQwJ9xPlhjw=
+
+Name: com/gildedgames/orbis/lib/world/instances/IInstanceHandler.class
+SHA-256-Digest: cH1DrV+kgiJmud7GlXesiGqemG++M1ihwYNoMycbUNQ=
+
+Name: com/gildedgames/orbis/lib/data/DataCondition.class
+SHA-256-Digest: PeWn5r6RL6nZY8E2c8ECmJz15cO3fxjsQp20VR2rnuc=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedBlueprintNetwork.clas
+ s
+SHA-256-Digest: bWw3D035fzI7bd02bJaMEzZDHGldmH7WSQoRC38k7wg=
+
+Name: com/gildedgames/orbis/lib/data/framework/interfaces/EnumFacingMu
+ ltiple$1.class
+SHA-256-Digest: 244rc31hSSzF0ZNch+Gwye/YJMypBkEXgWjVJdxyQE4=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/GuiCondition
+ CheckEntranceTriggerId.class
+SHA-256-Digest: Im91VQbvBf/CuHdt6CHKJTtkj9HxpcPP6JN5NXc815c=
+
+Name: com/gildedgames/orbis/lib/util/mc/GlUtil.class
+SHA-256-Digest: /6nNsBkC/uIM0hRyy3duLJUjKk21SstNZQU2hG3cXAI=
+
+Name: com/gildedgames/orbis/lib/core/variables/var_comparators/NumberL
+ essThanOrEqual.class
+SHA-256-Digest: 8yeYoe5rehgY5g4Rl2jorIvvWQvQmotqYIqlD0+gWzM=
+
+Name: com/gildedgames/orbis/lib/processing/BlockAccessWorldSlice.class
+SHA-256-Digest: mZ/LLbU9e3W7Z43rtEfYclz6nprSK6Q7G1l8TUhCg+k=
+
+Name: com/gildedgames/orbis/lib/core/variables/conditions/IGuiConditio
+ n.class
+SHA-256-Digest: 7s24pz4A0Q3fFdL2MOIQM8b1tHZBgDAnTQJyUFle0yU=
+
+Name: com/gildedgames/orbis/lib/core/variables/IGuiVarCompareExpressio
+ n.class
+SHA-256-Digest: wpsXes3HM0gZZ3wcmNlIJLnmnNw790M9EmLcnYWde6U=
+
+Name: com/gildedgames/orbis/lib/core/util/BlueprintPlacer.class
+SHA-256-Digest: 4VOTyfpKN1vQmO/Omg0rUPo+MU9j7vo8+bvkY6zNGs0=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketRegisterInstan
+ ce$Handler.class
+SHA-256-Digest: CbVS4LsuhmTh2V05Fxr45ynf84cbzEvO9hmqav6P/7w=
+
+Name: com/gildedgames/orbis/lib/core/tree/ConditionLink$Property.class
+SHA-256-Digest: ImFBnhI3WsMxtRKH5tcoFp9wOu+y/s97gjInELTPsSQ=
+
+Name: com/gildedgames/orbis/lib/data/schedules/ScheduleLayer.class
+SHA-256-Digest: qPItJlAWJd9/EF93Hm+VhTFM116dgONkUFOV7E1yFxM=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/IConstra
+ intProblem.class
+SHA-256-Digest: 2f/zwTQudAdfq0kNuvfMwXz8VYoGnt0i+9hH2r8+EvU=
+
+Name: com/gildedgames/orbis/lib/network/instances/PacketUtilOrbis.clas
+ s
+SHA-256-Digest: lotZVe3zRRXU9Y1Gg+bhj8kPhBE3LWo7JxdFp8n+QQE=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisProjectManag
+ er$ProjectWalker.class
+SHA-256-Digest: pc2xrfS1F9EtpeOEjyOEyYBzkU/4ioWfGc8aQu4ZTew=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Pa
+ thwayUtil.class
+SHA-256-Digest: zh/KaiyCoafMerGxQlCN6+SzyxdZ5y/Tn2CgNenFEo4=
+
+Name: com/gildedgames/orbis/lib/core/tree/NodeTree.class
+SHA-256-Digest: 5NBHMuzjL3f4EXZyihiB8g7jkHb+SNKIVxDa14jY/RI=
+
+Name: com/gildedgames/orbis/lib/util/RotationHelp$1$1.class
+SHA-256-Digest: FGWBUI97NiGMHVp6isHDDiXDtqC9z69rEJrOXVj3V7M=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/directory/DirectoryNav
+ igator.class
+SHA-256-Digest: UPJBetSdEBrgkzieXoPPy5Ja9B03oQS6MafgbqzQUBU=
+
+Name: assets/orbis-lib/tick_box.png
+SHA-256-Digest: 7kubbZDU5i2aMxhN4Z7sPP4Hi2XdRpejpjX1Wz3x8bc=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarBoolean$Set.class
+SHA-256-Digest: bVmBZwhXVIHRL6kPCNEmo09+CdCHI61cT4kDVx5H3Aw=
+
+Name: com/gildedgames/orbis/lib/block/BlockFilter.class
+SHA-256-Digest: t9fR5jvj6RLRqvBVvYK2GGQpHFC/Brqgs4fkKjcWArA=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarString.class
+SHA-256-Digest: K84NoPLRqo8x9wG6LxZo4kOywp7vgdB1Bri8luieEZk=
+
+Name: com/gildedgames/orbis/lib/core/tree/LayerLink$Property.class
+SHA-256-Digest: CvZjLoq00hj98HlOywiujpwxDlP80DiJJ2bLzuDlIdM=
+
+Name: com/gildedgames/orbis/lib/data/management/IProjectIdentifier.cla
+ ss
+SHA-256-Digest: dTskY13II7qoBeZ+q/7dh5YMKjPV4uV5512fc2LpHNA=
+
+Name: com/gildedgames/orbis/lib/processing/BlueprintNetworkGenerator$C
+ onnectionData.class
+SHA-256-Digest: cvN7/r16IsCnnatPUQ6qVSTwScEOAkwbUN5Af3/ILIs=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IScheduleRecordListener
+ .class
+SHA-256-Digest: SZ7fHCK5bG5fIBApgcKv2pcDbIuSnRicthGSTVHq0Rg=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/ProjectMetadata.c
+ lass
+SHA-256-Digest: HeQX3R8rTqbhKjH4NJ2oO1XivQAXhGbsmVYuyG9vVxs=
+
+Name: com/gildedgames/orbis/lib/core/baking/BakedEntitySpawn.class
+SHA-256-Digest: EHcSMIQtUSX4lYFkeXxO2PBgfUpFn6lS4NEquWrN2Rs=
+
+Name: com/gildedgames/orbis/lib/world/data/IWorldData.class
+SHA-256-Digest: QIwv5yjt0F7VCuRp/gwtyy/XzfNZIwIKJ9LWkZ2GL/E=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableLoa
+ der.class
+SHA-256-Digest: 1tO1ro5IxtyML6pRQrrf51IW9DlqpycdcnB88z/ad/w=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractPersistingCache$Per
+ sistedStateValueLoader.class
+SHA-256-Digest: WS/oVoHZagnZ9UV7nSRpSJD8Z59Bdr/ui0mLddO3wYA=
+
+Name: com/gildedgames/orbis/lib/util/mc/GuiUtils.class
+SHA-256-Digest: WKJ3O3067dPTtIqsxWGF8PaXNukMqaLnfBSsU9hQJM8=
+
+Name: com/gildedgames/orbis/lib/inventory/InventorySpawnEggs.class
+SHA-256-Digest: FNO3+jt7tPV+tt2WpdrsYIsAB4H4fVy5xdMaX1bRXzs=
+
+Name: com/gildedgames/orbis/lib/core/variables/GuiVarBlueprintVariable
+ .class
+SHA-256-Digest: JSaUBLU2J2cqlVIMRtt2j/KlHoFL0uZHApdrefnlf4s=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/Text.class
+SHA-256-Digest: T4xQfZmNqPgs/xjbOMvYkwYJTxIxFE5Pa1AOn9pNNnE=
+
+Name: com/gildedgames/orbis/lib/data/blueprint/BlueprintNetworkData.cl
+ ass
+SHA-256-Digest: KEqGkdk5eEqes4Clt9h1jXAvAGfb0R6PV1MfNg3UAps=
+
+Name: com/gildedgames/orbis/lib/client/gui/util/vanilla/GuiFrameCreati
+ ve.class
+SHA-256-Digest: IswHN/dkfiWcKyTva1LCNnnxEiRQtZJvyC9ZwzWAghE=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/csp/Multigra
+ ph.class
+SHA-256-Digest: jUOvqCS7QlwuBUuB3GwV0R8F5+d1vtmeA1n2PM4XnPI=
+
+Name: com/gildedgames/orbis/lib/data/management/impl/OrbisLootTableLoa
+ der$LootTableContext.class
+SHA-256-Digest: AwvO9GW6fg697UQV+zarYSulqsp+WAYb7HtE/zHv+O0=
+
+Name: com/gildedgames/orbis/lib/data/schedules/IBlueprint.class
+SHA-256-Digest: TDF3V+BjWF414iCt+eX6rmqn2pgJKiH0HhM9JobbrFs=
+
+Name: com/gildedgames/orbis/lib/data/framework/generation/searching/Pa
+ thwayProblem.class
+SHA-256-Digest: 2CaohEO4ca/rQw+5rPOfrKx+eEymfoGnB9reLShlAVk=
+
+Name: com/gildedgames/orbis/lib/util/cache/AbstractLoadingPersistingCa
+ che.class
+SHA-256-Digest: bkp1L+d0fSWkm2GY2sfLoXYdwfboCmPryGfeVNUGaps=
+
+Name: com/gildedgames/orbis/lib/util/mc/NBTHelper.class
+SHA-256-Digest: O5HMBGiNR43faqo9fTjc6ybfXntlGQLwArV1h8XZE08=
+
+Name: com/gildedgames/orbis/lib/data/region/IRegionHolder.class
+SHA-256-Digest: KgNeJUGoTaORV0Dw6y5AsaZBm2wr99KKvumZue5E2Fk=
+
+Name: com/gildedgames/orbis/lib/client/gui/data/directory/IDirectoryNa
+ vigatorListener.class
+SHA-256-Digest: BW//46Z5FSD0Rg/gjbTWPnEs5+dP/TxSX9++sMdkARY=
+
