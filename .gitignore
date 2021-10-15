@@ -4,6 +4,10 @@ asm/
 llibrary/
 logs/
 fonts/
+coremods/
+saves/
+screenshots/
+texturepacks/
 
 mods/OptiFine*
 mods/1.12.2/
@@ -18,6 +22,7 @@ BotaniaVars.dat
 .ReAuth.cfg
 patchouli_data.json
 ds_private_storage.json
+icon.png
 
 OpenComputersMod*
 
