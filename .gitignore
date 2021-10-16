@@ -12,6 +12,7 @@ astralsorcery/
 local/
 moreplayermodels/
 crash-reports/
+.disabled/
 
 mods/OptiFine*
 mods/1.12.2/
