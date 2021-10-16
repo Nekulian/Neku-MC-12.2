@@ -4,18 +4,18 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:6
+renderDistance:8
 guiScale:3
 particles:1
 bobView:true
 anaglyph3d:false
-maxFps:150
+maxFps:75
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:1
 renderClouds:true
-resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_5.13.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2"]
+resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_6.3.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

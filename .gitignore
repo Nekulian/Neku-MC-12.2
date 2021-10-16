@@ -8,6 +8,10 @@ coremods/
 saves/
 screenshots/
 texturepacks/
+astralsorcery/
+local/
+moreplayermodels/
+crash-reports/
 
 mods/OptiFine*
 mods/1.12.2/
@@ -26,6 +30,9 @@ icon.png
 .curseclient
 minecraftinstance.json
 optionsshaders.txt
+keys.txt
+usercache.json
+usernamecache.json
 
 OpenComputersMod*
 
