@@ -14,7 +14,7 @@ key.playerlist:15:NONE
 key.pickItem:-98:NONE
 key.command:53:NONE
 key.screenshot:60:NONE
-key.togglePerspective:63:NONE
+key.togglePerspective:0:NONE
 key.smoothCamera:0:NONE
 key.fullscreen:87:NONE
 key.spectatorOutlines:0:NONE
@@ -55,6 +55,7 @@ key.configurator_mode.desc:47:NONE
 key.configurator_filter.desc:48:NONE
 key.configurator_path.desc:34:NONE
 keybind.baublesinventory:0:NONE
+quark.keybind.toggleAutojump:0:NONE
 quark.emote.no:0:NONE
 quark.emote.yes:0:NONE
 quark.emote.wave:0:NONE
@@ -73,8 +74,6 @@ quark.emote.dab:0:NONE
 quark.emote.jet:0:NONE
 quark.emote.exorcist:0:NONE
 quark.emote.zombie:0:NONE
-quark.keybind.toggleAutojump:0:NONE
-quark.keybind.lockBuilding:37:NONE
 quark.keybind.dropoff:0:NONE
 quark.keybind.changeHotbar:44:NONE
 quark.keybind.chestSort:0:NONE
@@ -82,6 +81,7 @@ quark.keybind.chestDropoff:0:NONE
 quark.keybind.chestMerge:0:NONE
 quark.keybind.chestRestock:0:NONE
 quark.keybind.chestExtract:0:NONE
+quark.keybind.lockBuilding:37:NONE
 key.betterfoliage.gui:66:NONE
 key.toggleFoVChanges:51:SHIFT
 key.reloadSoundSystem:66:SHIFT
@@ -107,13 +107,6 @@ Kill Particles:0:NONE
 Blacklist Block:45:NONE
 key.findme.search:21:NONE
 key.open_menu:19:NONE
-CharacterScreen:88:NONE
-MPM 1:0:NONE
-MPM 2:0:NONE
-MPM 3:0:NONE
-MPM 4:0:NONE
-MPM 5:0:NONE
-MPM Camera:0:NONE
 neat.keybind.toggle:0:NONE
 schematica.key.load:181:NONE
 schematica.key.save:55:NONE
@@ -214,6 +207,7 @@ FpsReducer.key.guiOpen:207:NONE
 FpsReducer.key.forceIdle:197:NONE
 invtweaks.key.sort:19:NONE
 keywizard.keybind.openKeyboardWizard:0:NONE
+MAtmos:65:NONE
 key.music_player_gui:82:NONE
 key.music_player_toggle:80:NONE
 key.music_player_next:81:NONE
@@ -224,6 +218,14 @@ key.mcreator.switchhatlightkeybind:37:NONE
 pi.key.open_pi:23:NONE
 pi.key.et_gui:23:NONE
 pi.key.et_world:23:CONTROL
+Camera left:203:NONE
+Camera right:205:NONE
+Camera closer:200:NONE
+Camera farther:208:NONE
+Camera up:201:NONE
+Camera down:209:NONE
+Swap shoulder:24:NONE
+Toggle perspective:63:NONE
 key.toolbelt.open:19:NONE
 key.toolbelt.cycle.left:0:NONE
 key.toolbelt.cycle.right:0:NONE
