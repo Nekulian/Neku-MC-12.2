@@ -39,7 +39,8 @@
     "reskillable.cfg",
     "lycanitesmobs",
     "bettercombatmod.cfg",
-    "mod-director"
+    "mod-director",
+    "dsurround"
   ],
   "hashes": {
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\ghoul.json": "56DED39B9C1753797A8C2F16F22E2A4F",
@@ -214,7 +215,7 @@
     "Default/lycanitesmobs\\creatures\\shade.json": "8F8CF037E27144C51707E51B1BE2FA70",
     "Default/lycanitesmobs\\creatures\\jengu.json": "89DB3BA2FD2CDEBEB0A9D11F6582A138",
     "Default/lycanitesmobs\\creaturetypes\\elemental.json": "A1E86233BABB6C4E46D0BDF1CBD8A74E",
-    "Default/dsurround\\dsurround.cfg": "B9C8EE4782B0DB40DEA2193F9443A755",
+    "Default/dsurround\\dsurround.cfg": "F0430ABF0C8F2DB417B89A2A29A334F6",
     "Default/lycanitesmobs\\creatures\\beholder.json": "D6AAA3904FF39AF94895CF262FE9DA30",
     "1. Config Fix/lycanitesmobs\\creatures\\eyewig.json": "795D3836BCB92C4F689F59262E52A573",
     "12.10.2021 16.36.37/lycanitesmobs\\spawners\\chorus.json": "1D877EC2CB8CED9098EDA6C51872D942",
@@ -681,7 +682,7 @@
     "1. Config Fix/lycanitesmobs\\items\\cooked_aspid_meat.json": "1E48C2F85E34C3D1A85CBCA5783A3FEA",
     "Default/lycanitesmobs\\projectiles\\poop.json": "D092721E2A8B232D990A0300E2686F1C",
     "12.10.2021 16.36.37/lycanitesmobs\\spawners\\firenether.json": "4940B48CC71558806A10B33EC0FB1F6E",
-    "Default/antiqueatlas\\tileids.json": "34512014D8CC9F7CB2A859FEA7B120B9",
+    "Default/antiqueatlas\\tileids.json": "5BB96AA4EE2E1EBAF2BF0D66CA54A7AC",
     "12.10.2021 16.36.37/lycanitesmobs\\creaturegroups\\alpha.json": "9A15723305D74103E830BBFAD27FED4E",
     "1. Config Fix/lycanitesmobs\\creatures\\behemoth.json": "E68951B5731068B02184EF1C0305E31D",
     "1. Config Fix/lycanitesmobs\\mobevents\\blackplague.json": "8D6C2A196FD2E53890A93209FAFF5C1D",
