@@ -9,13 +9,13 @@ guiScale:3
 particles:1
 bobView:true
 anaglyph3d:false
-maxFps:75
+maxFps:120
 fboEnable:true
-difficulty:0
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:true
-resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_6.3.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2"]
+resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_6.3.zip","Authentic+Shadows_1.11-1.12.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2","mat_zen-35-1.2.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -52,8 +52,8 @@ enableWeakAttacks:false
 autoJump:true
 narrator:0
 tutorialStep:none
-soundCategory_master:0.32119206
-soundCategory_music:1.0
+soundCategory_master:0.5
+soundCategory_music:0.4
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
@@ -62,7 +62,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
+soundCategory_ds_footsteps:0.5
 soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
