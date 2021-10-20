@@ -41,3 +41,4 @@ config/*
 !config/defaultsettings.json
 !config/defaultsettings/
 !config/mod-director/
+*.disabled

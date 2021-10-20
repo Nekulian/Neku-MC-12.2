@@ -41,7 +41,9 @@
     "bettercombatmod.cfg",
     "mod-director",
     "dsurround",
-    "chunkanimator.cfg"
+    "chunkanimator.cfg",
+    "soundfilters.cfg",
+    "consolefilter.cfg"
   ],
   "hashes": {
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\ghoul.json": "56DED39B9C1753797A8C2F16F22E2A4F",
@@ -1282,6 +1284,7 @@
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\krake.json": "767303BE1A8CD207994321160A423F67",
     "12.10.2021 16.36.37/lycanitesmobs\\items\\raw_krake_meat.json": "E67F1B821545A6CB39B1492C63794C54",
     "28.09.2021 00.28.07/rpintegration.cfg": "2F7BF3351304FF54EDE2975D8345D41C",
+    "Default/consolefilter.cfg": "C888C2FD43E2D42BB4EA824ABE44F50A",
     "12.10.2021 16.36.37/lycanitesmobs\\creaturetypes\\beast.json": "1922A4C4284178446A03A1F8E6E290F4",
     "Default/lycanitesmobs\\elements\\shadow.json": "5834DAB17795B093B2FCE71048F7D748",
     "12.10.2021 16.36.37/lycanitesmobs\\mobevents\\dragonsroar.json": "38989104351466725C83F9C61717430D",
@@ -1773,6 +1776,7 @@
     "12.10.2021 16.36.37/lycanitesmobs\\dungeons\\themes\\aberrant.json": "746D8F822A2F57B56E4FF7661FA75D5D",
     "Default/forgeendertech\\Biomes\\lostcities.cfg": "6F1E6B76EA054C126377BEAE94244086",
     "Default/lycanitesmobs\\mobevents\\seastorm_waterspawner.json": "521BA3D00E2A2D8482608DCE2097127A",
+    "Default/soundfilters.cfg": "1393699554B9F8DBB87916464BB139F9",
     "1. Config Fix/lycanitesmobs\\items\\raw_joust_meat.json": "13A275E37585E36379218E794D882C96",
     "1. Config Fix/lycanitesmobs\\spawners\\ore.json": "03AF6ABBD0E320AAECF9F6DC31DB7C5A",
     "Default/lycanitesmobs\\creatures\\thresher.json": "D5B1267BD6A3B303F370AA6B968D7E4E",
