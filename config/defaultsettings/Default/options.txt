@@ -15,7 +15,7 @@ difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:true
-resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_6.3.zip","Authentic+Shadows_1.11-1.12.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2","mat_zen-35-1.2.2.zip"]
+resourcePacks:["16x16_Textures.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","Vanilla_Future_Texture_optifine_6.3.zip","Authentic Shadows_1.11-1.12.zip","Modernity-format3-v3.5.2.zip","BotaniaRetexture.zip","PR Luminance - Full 1.11.2","mat_zen-35-1.2.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
