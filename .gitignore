@@ -42,3 +42,4 @@ config/*
 !config/defaultsettings/
 !config/mod-director/
 *.disabled
+*.log
