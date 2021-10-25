@@ -1,0 +1,12 @@
+pixelated: https://www.curseforge.com/minecraft/mc-mods/enhancedvisuals
+PR Luminance: https://www.curseforge.com/minecraft/texture-packs/pixel-reality-luminance
+16x16_textures: https://www.curseforge.com/minecraft/texture-packs/ehotblchs-ddss-16x16-textures
+Authentic Shadows: https://www.curseforge.com/minecraft/texture-packs/authentic-shadows
+BotaniaRetexture: https://www.curseforge.com/minecraft/texture-packs/botania-retextured
+Cloudierclouds: https://www.curseforge.com/minecraft/texture-packs/cloudier-clouds
+Luminous: https://www.curseforge.com/minecraft/texture-packs/luminous
+Mat zen: https://www.curseforge.com/minecraft/texture-packs/matmos-2020-zen
+Modernity: https://www.curseforge.com/minecraft/texture-packs/modernity
+Spartan retextured: https://www.curseforge.com/minecraft/texture-packs/spartan-retextured
+Tissou's zombie pack: https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16
+Vanilla Future Texture: https://www.curseforge.com/minecraft/texture-packs/vanilla-future-texture
