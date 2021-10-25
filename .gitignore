@@ -15,6 +15,7 @@ crash-reports/
 .disabled/
 map exports/
 XaeroWorldMap/
+cache/
 
 mods/OptiFine*
 mods/1.12.2/
