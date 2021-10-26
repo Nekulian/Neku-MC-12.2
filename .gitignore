@@ -21,6 +21,9 @@ mods/OptiFine*
 mods/1.12.2/
 mods/memory_repo/
 
+resourcepacks/NekuTweaks/
+resourcepacks/NekuExperiments/
+
 config.json
 config_new_temp.json
 config.bak.json
