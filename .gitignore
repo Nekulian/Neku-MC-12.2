@@ -49,3 +49,4 @@ config/*
 !config/mod-director/
 *.disabled
 *.log
+instance.json
