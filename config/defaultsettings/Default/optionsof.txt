@@ -67,6 +67,6 @@ ofCustomGuis:true
 ofShowGlErrors:false
 ofFullscreenMode:2560x1440
 ofFastMath:true
-ofFastRender:true
+ofFastRender:false
 ofTranslucentBlocks:0
 key_of.key.zoom:46

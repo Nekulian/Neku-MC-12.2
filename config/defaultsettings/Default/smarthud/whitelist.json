@@ -5,7 +5,6 @@
     { "item": "botania:manatablet" },
     { "item": "endercompass:ender_compass" },
     { "item": "inventoryneko:neko" },
-    { "item": "minecraft:clock" },
     { "item": "minecraft:compass" },
     { "item": "mist:hygrometer", "dimensions": [ 69 ] },
     { "item": "naturescompass:naturescompass" },

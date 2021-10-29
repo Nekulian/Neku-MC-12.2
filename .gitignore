@@ -16,6 +16,7 @@ crash-reports/
 map exports/
 XaeroWorldMap/
 cache/
+betweenlands_gallery/
 
 mods/OptiFine*
 mods/1.12.2/
@@ -51,3 +52,4 @@ config/*
 *.disabled
 *.log
 instance.json
+mods/TheBetweenlands-3.8.0-universal.jar
