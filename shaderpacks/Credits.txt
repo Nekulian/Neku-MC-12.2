@@ -1,0 +1,16 @@
+ComplementaryShaders is created by: EminGTR <-[not me]
+Link: https://www.curseforge.com/minecraft/customization/complementary-shaders
+
+Some changes have been made to it
+COMPATIBILITY_MODE=true
+REFLECTION_SPECULAR=false
+shadowDistance=128.0
+shadowMapResolution=1024
+
+MIN_LIGHT=0
+MOON_PHASE_LIGHTING=true
+NIGHT_LIGHTING_FULL_MOON=0.75
+NIGHT_LIGHTING_NEW_MOON=0.05
+NIGHT_LIGHTING_PARTIAL_MOON=0.40
+
+Special thanks to EminGTR for 'personally' allowing me to make some of these changes.

@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:false
-resourcePacks:["mat_zen-35-1.2.2.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","BotaniaRetexture.zip","16x16_Textures.zip","Vanilla_Future_Texture_optifine_6.7.zip","Modernity-format3-v3.5.2.zip","Authentic Shadows_1.11-1.12.zip","Spartan Retextured.zip","Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip","Luminous1.12.2.zip","PR Luminance 1.11.2.zip","NekuTweaks"]
+resourcePacks:["mat_zen-35-1.2.2.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","BotaniaRetexture.zip","16x16_Textures.zip","Vanilla_Future_Texture_optifine_6.7.zip","Modernity-format3-v3.5.2.zip","Authentic Shadows_1.11-1.12.zip","Spartan Retextured.zip","Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip","Luminous1.12.2.zip","PR Luminance 1.11.2.zip","PR Luminance - Light 1.11.2","NekuTweaks","NekuExperiments"]
 incompatibleResourcePacks:["Spartan Retextured.zip"]
 lastServer:
 lang:en_us
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
