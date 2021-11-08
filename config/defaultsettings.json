@@ -50,7 +50,8 @@
     "cd4017be",
     "smarthud",
     "odysseyhud.cfg",
-    "thebetweenlands"
+    "thebetweenlands",
+    "beneath"
   ],
   "hashes": {
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\ghoul.json": "56DED39B9C1753797A8C2F16F22E2A4F",
@@ -1032,6 +1033,7 @@
     "Default/lycanitesmobs\\creatures\\ioray.json": "442B2121D16117A729095F3AD4810C99",
     "Default/lycanitesmobs\\mobevents\\halloween_skyspawner.json": "4651E6C43D851BA74EB7B6A57490067B",
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\dweller.json": "7585E91C7C27E783ED9F25A0D2F962F4",
+    "Default/beneath\\blockdeco.json": "C23F1B8F335070A0EE4DD4237FF551AC",
     "Default/lycanitesmobs\\items\\caecilian_ramen.json": "0A808F10DD209A7BC99AF85FB8212D82",
     "1. Config Fix/lycanitesmobs\\creatures\\concapedesegment.json": "86F52E055A1132487126B56182E5107D",
     "1. Config Fix/lycanitesmobs\\equipment\\wendigoantler.json": "95FC57952F006D721E4DF8E867CED692",
@@ -1197,7 +1199,7 @@
     "Default/lycanitesmobs\\creatures\\asmodeus.json": "0131F36ED8BC07D43958F11ADD5FD21F",
     "1. Config Fix/lycanitesmobs\\creatures\\arisaur.json": "244C92142F3E90B7253DD45980D31541",
     "Default/charset\\module\\lib.cfg": "1D3D06E27905B9EB7C029F6C3D0A6065",
-    "Default/options.txt": "1BD0107E1F4FB58E440CECEF45B21987",
+    "Default/options.txt": "19D2EAA29DE28DF87BA491D44AAA964A",
     "1. Config Fix/lycanitesmobs\\creaturetypes\\aberration.json": "F3ACD0F386C475390F4DA7A2AB28F653",
     "Default/splash.properties": "FAFFCF470167D35681702CE89556898F",
     "12.10.2021 16.36.37/lycanitesmobs\\creaturegroups\\inferno.json": "4AC6E277019151D57827709800D7BA84",
@@ -1330,6 +1332,7 @@
     "Default/lycanitesmobs\\mobevents\\hellsfury.json": "05F40062F27B97727B3137C53F5D5C6A",
     "Default/lycanitesmobs\\dungeons\\sectors\\entrancebasic.json": "B2AE273EFFE79E37F2DA2E5ED29B3997",
     "12.10.2021 16.36.37/lycanitesmobs\\mobevents\\cinderfall_spawner.json": "B6351722670557AF821CFB04AAF49950",
+    "Default/beneath\\oregen.json": "0ED364345F6488191472781142A80B83",
     "Default/bountiful\\bounties.json": "86DA70A125D84F78A707762FF9D7CA2F",
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\cinder.json": "F338D5A0B154D8E0D596FD1227C713DA",
     "12.10.2021 16.36.37/lycanitesmobs\\equipment\\argustail.json": "70EB0EA39DF55FA32784AD4109871E0F",
@@ -1702,6 +1705,7 @@
     "Default/lycanitesmobs\\creatures\\kobold.json": "AE49CFF3629CFA015DE868CAC0FF1D57",
     "28.09.2021 00.28.07/entity_culling.cfg": "E5E9F8139B2A57ECB24E72DC50A9D552",
     "Default/lycanitesmobs\\creaturetypes\\avian.json": "EBADCD15EBFF4D3BE66C1B8331B850B6",
+    "Default/beneath\\beneath.cfg": "AA2E22E45A05B71D93C92EBE6B5F436B",
     "Default/lycanitesmobs\\spawners\\nethersky.json": "7144524726CE6FE0958076861D463054",
     "1. Config Fix/lycanitesmobs\\elements\\acid.json": "2A0D5D98EF1C347183269B7DCE6DD2BA",
     "Default/VillageNames4\\namepieces\\alien.cfg": "08705A74930353167BBA80D8D4CE9BC7",
