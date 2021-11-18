@@ -1,0 +1,100 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiOptions
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = element
+  orientation_element = vanillabtn:345232
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = element
+  orientation_element = vanillabtn:345232
+  x = 0
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=505280%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345256%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345181%
+  orientation = element
+  orientation_element = vanillabtn:345232
+  x = 160
+  action = movebutton
+  y = -51
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = FPS Reducer
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345232
+  x = 0
+  width = 150
+  actionid = f7b8ea73-8336-460a-adf3-a7180603e60b1637103842442
+  action = addbutton
+  y = 48
+  value = bre.fpsreducer.gui.GuiConfigScreen
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = Fancy Block Particles
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345232
+  x = 160
+  width = 150
+  actionid = 76c08065-be25-4e00-a852-64ad661c6b881637104038445
+  action = addbutton
+  y = 48
+  value = com.TominoCZ.FBP.gui.FBPGuiMenuPage0
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = Dynamic Surroundings
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:345232
+  x = 0
+  width = 150
+  actionid = 39713d0b-b23a-443b-8371-bc3d52eed3dd1637104273095
+  action = addbutton
+  y = -78
+  value = org.orecruncher.dsurround.client.gui.DynSurroundConfigGui
+  height = 20
+}
+

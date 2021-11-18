@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiScreenOptionsSounds
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = Sound Physics
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:505264
+  x = 0
+  width = 150
+  actionid = a57c9e2e-7894-41c1-92fa-26426c09301d1637107972813
+  action = addbutton
+  y = 22
+  value = com.sonicether.soundphysics.SPGuiConfig
+  height = 20
+}
+

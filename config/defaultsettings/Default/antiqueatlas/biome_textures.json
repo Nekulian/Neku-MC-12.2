@@ -15,18 +15,6 @@
     "abyssalcraft:omothol": "PLAINS",
     "abyssalcraft:purged": "PLAINS",
     "abyssalcraft:purified_dreadlands": "PLAINS",
-    "advancedrocketry:alien forest": "FOREST",
-    "advancedrocketry:crystalchasms": "SNOW",
-    "advancedrocketry:deepswamp": "PLAINS",
-    "advancedrocketry:hotdryrock": "DESERT",
-    "advancedrocketry:marsh": "PLAINS",
-    "advancedrocketry:moon": "SNOW",
-    "advancedrocketry:moondark": "SNOW",
-    "advancedrocketry:oceanspires": "WATER",
-    "advancedrocketry:space": "PLAINS",
-    "advancedrocketry:stormland": "DESERT",
-    "advancedrocketry:volcanic": "DESERT_HILLS",
-    "advancedrocketry:volcanicbarren": "DESERT_HILLS",
     "aether_legacy:aether_highlands": "PLAINS",
     "atum:dead_oasis": "PLAINS",
     "atum:deadwood_forest": "SPARSE_FOREST",
@@ -45,6 +33,10 @@
     "defiledlands:ice_plains_defiled": "SNOW",
     "defiledlands:plains_defiled": "PLAINS",
     "defiledlands:swamp_defiled": "SWAMP",
+    "dimdoors:black_void": "PLAINS",
+    "dimdoors:dangerous_black_void": "PLAINS",
+    "dimdoors:limbo": "PLAINS",
+    "dimdoors:white_void": "PLAINS",
     "erebus:elysian_fields": "PLAINS",
     "erebus:fields_sub_forest": "FOREST",
     "erebus:fungal_forest": "PLAINS",
@@ -182,6 +174,7 @@
     "traverse:snowy_coniferous_forest": "PINES",
     "traverse:temperate_rainforest": "PINES",
     "traverse:thicket": "DENSE_FOREST",
-    "traverse:woodlands": "PLAINS"
+    "traverse:woodlands": "PLAINS",
+    "warpdrive:space": "PLAINS"
   }
 }

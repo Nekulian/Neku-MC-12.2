@@ -1,0 +1,29 @@
+type = customizablemenus
+
+com.zeitheron.hammercore.client.gui.impl.GuiCustomizeSkinHC {
+}
+
+net.minecraftforge.fml.client.config.GuiConfig {
+}
+
+net.minecraft.client.gui.GuiScreenOptionsSounds {
+}
+
+net.minecraft.client.gui.GuiVideoSettings {
+}
+
+us.getfluxed.controlsearch.client.gui.GuiNewControls {
+}
+
+net.minecraft.client.gui.inventory.GuiInventory {
+}
+
+dmillerw.menu.gui.GuiRadialMenu {
+}
+
+net.minecraft.client.gui.GuiMainMenu {
+}
+
+net.minecraft.client.gui.GuiOptions {
+}
+

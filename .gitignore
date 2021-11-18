@@ -17,6 +17,7 @@ map exports/
 XaeroWorldMap/
 cache/
 betweenlands_gallery/
+warpDrive_schematics/
 
 mods/OptiFine*
 mods/1.12.2/
