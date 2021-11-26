@@ -14,20 +14,6 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
-  orientation = element
-  orientation_element = vanillabtn:400346
-  x = 51
-  action = movebutton
-  y = 36
-}
-
-customization {
-  identifier = %id=502346%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=400382%
   orientation = element
   orientation_element = vanillabtn:400346
@@ -37,7 +23,21 @@ customization {
 }
 
 customization {
+  identifier = %id=502382%
+  orientation = element
+  orientation_element = vanillabtn:400346
+  x = 51
+  action = movebutton
+  y = 36
+}
+
+customization {
   identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
   action = hidebutton
 }
 
