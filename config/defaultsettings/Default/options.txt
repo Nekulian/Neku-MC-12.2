@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:true
-resourcePacks:["mat_zen-35-1.2.2.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","BotaniaRetexture.zip","16x16_Textures.zip","Jappafied Aether.zip","Refreshed Aether.zip","Vanilla_Future_Texture_optifine_7.1.zip","Modernity-format3-v3.5.2.zip","Authentic Shadows_1.11-1.12.zip","Spartan Retextured.zip","Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip","Luminous1.12.2.zip","PR Luminance - Light 1.11.2","PRJE Atmosphere 1.12.zip"]
+resourcePacks:["mat_zen-35-1.2.2.zip","Pixelated_v1.3_EnhancedVisuals by nox_cgt","BotaniaRetexture.zip","16x16_Textures.zip","Jappafied Aether.zip","Refreshed Aether.zip","Vanilla_Future_Texture_optifine_7.5.zip","Modernity-format3-v3.5.2.zip","Authentic Shadows_1.11-1.12.zip","Spartan Retextured.zip","Tissou\u0027s Zombie Pack 1.12.2 v2.0.zip","Luminous1.12.2.zip","PR Luminance - Light 1.11.2","PRJE Atmosphere 1.12.zip"]
 incompatibleResourcePacks:["Spartan Retextured.zip"]
 lastServer:
 lang:en_us
