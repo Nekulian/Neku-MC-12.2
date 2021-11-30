@@ -61,7 +61,9 @@
     "clienttweaks.cfg",
     "fancymenu",
     "randompatches.cfg",
-    "stackie.cfg"
+    "stackie.cfg",
+    "traverse",
+    "nt.cfg"
   ],
   "hashes": {
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\ghoul.json": "56DED39B9C1753797A8C2F16F22E2A4F",
@@ -177,7 +179,7 @@
     "Default/darkutils.cfg": "6C02D869E624D7D4A7B2304FD5CCD0E5",
     "Default/naturescompass.cfg": "4A81C233AF103B428BEFC6B0E1B73B74",
     "12.10.2021 16.36.37/lycanitesmobs\\dungeons\\sectors\\roombasicmob.json": "5F113FFF13F0ADB77DF874AB0538C2EE",
-    "Default/traverse\\traverse.cfg": "A2334C00310F7FC904E56F9125AF7CC8",
+    "Default/traverse\\traverse.cfg": "86D7D41CD40D025A0EA9C8E6956A2F9E",
     "Default/lycanitesmobs\\dungeons\\schematics\\lushtomb.json": "F165C4683488C054CAC52D9C38E8293F",
     "1. Config Fix/lycanitesmobs\\equipment\\astarothclaw.json": "067D3ECDA4E2CE9FA24B83E2B26CD301",
     "1. Config Fix/lycanitesmobs\\items\\moss_pie.json": "722D286F8127008E432B5F99E6F1E40E",
@@ -1782,9 +1784,10 @@
     "Default/fancymenu\\customization\\Skin Fix.txt": "0D95DBC963C7CE60AC5156D53EAFA491",
     "1. Config Fix/lycanitesmobs\\mobevents\\seastorm.json": "8869FA858DB68826E99EE71BAE1AA326",
     "Default/astralsorcery\\fluid_rarities.cfg": "D4AEFC0CE67212FE9AAC28AFAF19F550",
-    "Default/antiqueatlas\\biome_textures.json": "6090DFB9AAE8CD06E822FE9DCB6D7A33",
+    "Default/antiqueatlas\\biome_textures.json": "21101CD9348A41A3894CCD5FA670D829",
     "Default/lycanitesmobs\\creatures\\tarantula.json": "6B5428C47703AF3F6DDE74D64B333CD5",
     "Default/lycanitesmobs\\creatures\\aglebemu.json": "77FEE16800DDAF664352595AFD76095C",
+    "Default/nt.cfg": "A2980710B05AD4AE3595B6D43A40CE5A",
     "1. Config Fix/lycanitesmobs\\mobevents\\arachnophobia_spawner.json": "8764910098B4A0D0FE5EB13712411E30",
     "Default/lycanitesmobs\\creatures\\dawon.json": "E1E0BA330B17C771323A8C29F7F4CFA0",
     "12.10.2021 16.36.37/lycanitesmobs\\mobevents\\hellsfury.json": "DA129FD3629FDBD89E66521E22F1D97A",
