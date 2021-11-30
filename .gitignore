@@ -54,3 +54,4 @@ config/*
 *.log
 instance.json
 mods/TheBetweenlands-3.8.0-universal.jar
+mods/TheBetweenlands-3.8.1-universal.jar
