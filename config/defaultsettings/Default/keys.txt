@@ -14,7 +14,7 @@ key.playerlist:15:NONE
 key.pickItem:-98:NONE
 key.command:53:NONE
 key.screenshot:60:NONE
-key.togglePerspective:0:NONE
+key.togglePerspective:63:NONE
 key.smoothCamera:0:NONE
 key.fullscreen:87:NONE
 key.spectatorOutlines:0:NONE
@@ -32,30 +32,17 @@ key.hotbar.7:8:NONE
 key.hotbar.8:9:NONE
 key.hotbar.9:10:NONE
 of.key.zoom:46:NONE
-Airship Up:57:NONE
-Airship Forward:17:NONE
-Airship Backward:31:NONE
-Airship Turn Left:30:NONE
-Airship Turn Right:32:NONE
-Airship Down:45:NONE
-Airship Sprinting:29:NONE
-VS Controller Dismount Key:42:NONE
-Zepplin Airship Up:78:NONE
-Zepplin Airship Forward:72:NONE
-Zepplin Airship Backward:80:NONE
-Zepplin Airship Turn Left:75:NONE
-Zepplin Airship Turn Right:77:NONE
-Zepplin Airship Down:74:NONE
-Zepplin Airship Stop:76:NONE
-Change Caster Focus:33:NONE
-Misc Caster Toggle:34:NONE
-key.staff_mode.desc:50:NONE
-key.use_cage.desc:49:NONE
-key.configurator_mode.desc:47:NONE
-key.configurator_filter.desc:48:NONE
-key.configurator_path.desc:34:NONE
+Reload Menu | CTRL + ALT + :19:NONE
+Toggle Customization Overlay | CTRL + ALT + :46:NONE
 keybind.baublesinventory:0:NONE
 quark.keybind.toggleAutojump:0:NONE
+quark.keybind.dropoff:0:NONE
+quark.keybind.changeHotbar:44:NONE
+quark.keybind.chestSort:0:NONE
+quark.keybind.chestDropoff:0:NONE
+quark.keybind.chestMerge:0:NONE
+quark.keybind.chestRestock:0:NONE
+quark.keybind.chestExtract:0:NONE
 quark.emote.no:0:NONE
 quark.emote.yes:0:NONE
 quark.emote.wave:0:NONE
@@ -74,20 +61,12 @@ quark.emote.dab:0:NONE
 quark.emote.jet:0:NONE
 quark.emote.exorcist:0:NONE
 quark.emote.zombie:0:NONE
-quark.keybind.dropoff:0:NONE
-quark.keybind.changeHotbar:44:NONE
-quark.keybind.chestSort:0:NONE
-quark.keybind.chestDropoff:0:NONE
-quark.keybind.chestMerge:0:NONE
-quark.keybind.chestRestock:0:NONE
-quark.keybind.chestExtract:0:NONE
 quark.keybind.lockBuilding:37:NONE
 key.betterfoliage.gui:66:NONE
 key.toggleFoVChanges:51:SHIFT
 key.reloadSoundSystem:66:SHIFT
 key.toggleTimeOfDayOverlay:0:NONE
 key.togglePotionParticles:66:CONTROL
-keybind.hammercorerenderstack:77:NONE
 cos.key.opencosarmorinventory:0:NONE
 doubleslabs.key.toggleVerticalSlabPlacement:58:NONE
 key.ebwizardry.next_spell:0:NONE
@@ -100,12 +79,19 @@ key.ebwizardry.spell_5:6:ALT
 key.ebwizardry.spell_6:7:ALT
 key.ebwizardry.spell_7:8:ALT
 key.ebwizardry.spell_8:9:ALT
+key.erebus.glide:34:NONE
+key.erebus.poweredglide:35:NONE
+key.erebus.beetleram:19:NONE
+key.erebus.beetlemine:56:NONE
 Open Menu:25:NONE
 Toggle Freeze Effect:19:NONE
 Enable/Disable:0:NONE
 Kill Particles:0:NONE
 Blacklist Block:45:NONE
 key.findme.search:21:NONE
+key.ftbutilities.nbt:49:ALT
+key.ftbutilities.trash:211:NONE
+keybind.hammercorerenderstack:77:NONE
 key.open_menu:19:NONE
 neat.keybind.toggle:0:NONE
 schematica.key.load:181:NONE
@@ -127,10 +113,11 @@ walljump.key.walljump:42:NONE
 dshuds.keybind.SelectionBox:0:NONE
 dshuds.keybind.LightLevel:65:NONE
 dshuds.keybind.ChunkBorders:67:NONE
-nimble.keybind.frontView:62:NONE
 key.pickup.item:0:NONE
 key.dismount:42:NONE
 key.narrator:48:CONTROL
+key.unhook:45:NONE
+key.aether.accessory_menu:23:NONE
 key.jei.toggleOverlay:24:CONTROL
 key.jei.focusSearch:33:CONTROL
 key.jei.toggleCheatMode:0:NONE
@@ -142,7 +129,6 @@ key.jei.previousPage:201:NONE
 key.jei.nextPage:209:NONE
 key.jei.bookmark:30:NONE
 key.jei.toggleBookmarkOverlay:0:NONE
-key.unhook:45:NONE
 tombstone.message.knowledge_of_death:0:NONE
 Seamoth descend:46:NONE
 nei.options.keys.gui.botania_corporea_request:46:NONE
@@ -201,7 +187,22 @@ key.effortlessbuilding.mode.desc:-98:NONE
 key.effortlessbuilding.undo.desc:44:CONTROL
 key.effortlessbuilding.redo.desc:21:CONTROL
 key.effortlessbuilding.altplacement.desc:29:NONE
-key.elenaidodge.dodge:56:NONE
+keybind.enderskills.skill_bound.rotate_right:32:ALT
+keybind.enderskills.skill_bound.rotate_left:30:ALT
+keybind.enderskills.skill_bound.use_1:2:ALT
+keybind.enderskills.skill_bound.use_2:3:ALT
+keybind.enderskills.skill_bound.use_3:4:ALT
+keybind.enderskills.skill_bound.use_4:5:ALT
+keybind.enderskills.skill_bound.use_5:6:ALT
+keybind.enderskills.skill_bound.use_6:7:ALT
+keybind.enderskills.skill_bound.use_7:8:ALT
+keybind.enderskills.skill_bound.use_8:9:ALT
+keybind.enderskills.skill_bound.use_9:10:ALT
+keybind.enderskills.skill_bound.assisted_upgrade:29:NONE
+keybind.enderskills.skill_bound.hide_overlay:21:ALT
+keybind.enderskills.skill_bound.dash:29:NONE
+keybind.enderskills.skill_bound.warp:29:NONE
+keybind.enderskills.skill_bound.smash:42:NONE
 key.mod_lavacow.special:34:NONE
 FpsReducer.key.guiOpen:207:NONE
 FpsReducer.key.forceIdle:197:NONE
@@ -214,18 +215,9 @@ key.music_player_next:81:NONE
 key.music_player_previous:79:NONE
 key.nutrition:0:NONE
 key.clipboardPaste:210:NONE
-key.mcreator.switchhatlightkeybind:37:NONE
 pi.key.open_pi:23:NONE
 pi.key.et_gui:23:NONE
 pi.key.et_world:23:CONTROL
-Camera left:203:NONE
-Camera right:205:NONE
-Camera closer:200:NONE
-Camera farther:208:NONE
-Camera up:201:NONE
-Camera down:209:NONE
-Swap shoulder:24:NONE
-Toggle perspective:63:NONE
 key.toolbelt.open:19:NONE
 key.toolbelt.cycle.left:0:NONE
 key.toolbelt.cycle.right:0:NONE
@@ -234,8 +226,11 @@ key.craftingGrid:46:NONE
 key.travelersbackpack.inventory:48:NONE
 key.travelersbackpack.toggle_tank:49:NONE
 key.travelersbackpack.cycle_tool:42:NONE
-Speak:47:NONE
-Gliby's Options Menu:52:NONE
+key.radial_menu:46:NONE
+key.use_ring:19:NONE
+key.use_secondary_ring:0:NONE
+key.open_pouch:34:NONE
+key.connect_caving_rope:47:NONE
 key.control:29:NONE
 Open Skill GUI:0:NONE
 Check Slot:25:NONE
