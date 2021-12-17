@@ -1,0 +1,28 @@
+{ "dimensions": [
+	{ 
+		"dim": 684, 
+		"override": true,
+		"biome": "dimdoors:limbo",
+		"dimensiontype": {
+			"worldprovider": "WorldProviderSurfaceJED"
+        },
+		"jed": {
+			"HasXZFog": true,
+			"FogColor": "eeeeee",
+			"SkyColor": "eeeeee",
+			"SkyBlend": 1.0,
+			"SkyRenderer": "vazkii.botania.client.render.world.SkyblockSkyRenderer",
+			"Colors": {
+				"WaterColors":   [ { "biome_regex": ".*",  "color": "ff0000" } ]
+			}
+		},
+		"worldinfo_onetime": {
+			"generatorName": "flat",
+            "generatorOptions": "3;1*minecraft:bedrock,62*minecraft:concrete,1*minecraft:water;8;",
+			"DayTime": 6000,
+			"GameRules": {
+				"doDaylightCycle": "false"
+			}
+		}
+	}] 
+}
