@@ -1,0 +1,14 @@
+enhancedvisuals | https://www.dropbox.com/s/9tc2q813jrtoj20/Pixelated_v1.3_EnhancedVisuals%20by%20nox_cgt.zip?dl=1
+
+botania/textures/blocks | https://www.curseforge.com/minecraft/texture-packs/botania-retextured
+
+botania/textures/misc | https://www.curseforge.com/minecraft/texture-packs/clear-skyblocks
+
+minecraft | https://www.curseforge.com/minecraft/texture-packs/authentic-shadows
+
+contenttweaker | https://www.curseforge.com/minecraft/texture-packs/ehotblchs-ddss-16x16-textures
+draconicevolution | https://www.curseforge.com/minecraft/texture-packs/ehotblchs-ddss-16x16-textures
+tombstone | https://www.curseforge.com/minecraft/texture-packs/ehotblchs-ddss-16x16-textures
+
+ebwizardry | https://www.curseforge.com/minecraft/texture-packs/lichs-3d-wands
+
