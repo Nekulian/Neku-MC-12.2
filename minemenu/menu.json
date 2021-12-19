@@ -66,7 +66,21 @@
       }
     }
   },
-  "main": {},
+  "main": {
+    "0": {
+      "title": "bauble inventory",
+      "icon": {
+        "name": "minecraft:stone",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "keybind.baublesinventory",
+          "toggle": false
+        }
+      }
+    }
+  },
   "Settings": {
     "1": {
       "title": "Foliage Settings",

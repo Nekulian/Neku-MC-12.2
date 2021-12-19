@@ -36,13 +36,7 @@ Reload Menu | CTRL + ALT + :19:NONE
 Toggle Customization Overlay | CTRL + ALT + :46:NONE
 keybind.baublesinventory:0:NONE
 quark.keybind.toggleAutojump:0:NONE
-quark.keybind.dropoff:0:NONE
-quark.keybind.changeHotbar:44:NONE
-quark.keybind.chestSort:0:NONE
-quark.keybind.chestDropoff:0:NONE
-quark.keybind.chestMerge:0:NONE
-quark.keybind.chestRestock:0:NONE
-quark.keybind.chestExtract:0:NONE
+quark.keybind.lockBuilding:37:NONE
 quark.emote.no:0:NONE
 quark.emote.yes:0:NONE
 quark.emote.wave:0:NONE
@@ -61,7 +55,13 @@ quark.emote.dab:0:NONE
 quark.emote.jet:0:NONE
 quark.emote.exorcist:0:NONE
 quark.emote.zombie:0:NONE
-quark.keybind.lockBuilding:37:NONE
+quark.keybind.dropoff:0:NONE
+quark.keybind.changeHotbar:44:NONE
+quark.keybind.chestSort:0:NONE
+quark.keybind.chestDropoff:0:NONE
+quark.keybind.chestMerge:0:NONE
+quark.keybind.chestRestock:0:NONE
+quark.keybind.chestExtract:0:NONE
 key.betterfoliage.gui:66:NONE
 key.toggleFoVChanges:51:SHIFT
 key.reloadSoundSystem:66:SHIFT
@@ -153,7 +153,7 @@ mod.chiselsandbits.positivepatternmode.impose:0:NONE
 mod.chiselsandbits.tapemeasure.bit:0:NONE
 mod.chiselsandbits.tapemeasure.block:0:NONE
 mod.chiselsandbits.tapemeasure.distance:0:NONE
-mod.chiselsandbits.other.mode:56:NONE
+mod.chiselsandbits.other.mode:-98:NONE
 mod.chiselsandbits.other.rotate.ccw:0:NONE
 mod.chiselsandbits.other.rotate.cw:0:NONE
 mod.chiselsandbits.other.pickbit:0:NONE
@@ -222,7 +222,6 @@ key.toolbelt.open:19:NONE
 key.toolbelt.cycle.left:0:NONE
 key.toolbelt.cycle.right:0:NONE
 key.toolbelt.slot:47:NONE
-key.craftingGrid:46:NONE
 key.travelersbackpack.inventory:48:NONE
 key.travelersbackpack.toggle_tank:49:NONE
 key.travelersbackpack.cycle_tool:42:NONE
@@ -231,6 +230,5 @@ key.use_ring:19:NONE
 key.use_secondary_ring:0:NONE
 key.open_pouch:34:NONE
 key.connect_caving_rope:47:NONE
-key.control:29:NONE
 Open Skill GUI:0:NONE
 Check Slot:25:NONE

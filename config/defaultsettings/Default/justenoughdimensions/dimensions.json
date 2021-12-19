@@ -1,5 +1,4 @@
-{ "dimensions": [
-	{ 
+{ "dimensions": [{ 
 		"dim": 684, 
 		"override": true,
 		"biome": "dimdoors:limbo",
@@ -20,6 +19,18 @@
 			"generatorName": "flat",
             "generatorOptions": "3;1*minecraft:bedrock,62*minecraft:concrete,1*minecraft:water;8;",
 			"DayTime": 6000,
+			"GameRules": {
+				"doDaylightCycle": "false"
+			}
+		}
+	},
+
+	{ 
+		"dim": -23, 
+		"override": true,
+		"worldinfo_onetime": {
+			"thundering": false,
+			"DayTime": 18000,
 			"GameRules": {
 				"doDaylightCycle": "false"
 			}
