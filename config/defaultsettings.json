@@ -64,7 +64,8 @@
     "stackie.cfg",
     "traverse",
     "nt.cfg",
-    "justenoughdimensions"
+    "justenoughdimensions",
+    "exoticbirds.cfg"
   ],
   "hashes": {
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\ghoul.json": "56DED39B9C1753797A8C2F16F22E2A4F",
@@ -87,7 +88,7 @@
     "12.10.2021 16.36.37/lycanitesmobs\\items\\cooked_maka_meat.json": "A78F14627DE7DB5FEC73DF612FECF55F",
     "12.10.2021 16.36.37/lycanitesmobs\\spawners\\lava.json": "C27D7EE4B5ADB6BD79EF97C59742A335",
     "12.10.2021 16.36.37/lycanitesmobs\\creatures\\quetzodracl.json": "ECA56914E8A0F3EA03AF2548140415BF",
-    "Default/exoticbirds.cfg": "4339DB3422562446BC665E687D50773C",
+    "Default/exoticbirds.cfg": "36E38E399BCED75AB4A197FCAD823A28",
     "Default/lycanitesmobs\\worldgen.cfg": "710A06CD1C4E943FFB4E9F35CC8C6E25",
     "12.10.2021 16.36.37/lycanitesmobs\\projectiles\\devilstar.json": "E4B835BC9AF7FFC10943C4274FEF2FE5",
     "12.10.2021 16.36.37/lycanitesmobs\\spawners\\village.json": "4B19E22C6104BAD9D7AE39276353F20D",
@@ -149,7 +150,7 @@
     "1. Config Fix/lycanitesmobs\\creatures\\zephyr.json": "2C5359E321A73B32946843A392BDDF9B",
     "1. Config Fix/lycanitesmobs\\projectiles\\tricksterflare.json": "435018CC15358C9B4A2B3D8CA7A4F119",
     "1. Config Fix/lycanitesmobs\\projectiles\\icefireball.json": "3FF29AF2F76B91B056E4CADA07ABE43D",
-    "Default/astralsorcery\\amulet_enchantments.cfg": "BC4D6139A5A2A452C4A0372C8465131A",
+    "Default/astralsorcery\\amulet_enchantments.cfg": "1339A0176E4BEA278E2F64A806009F7F",
     "Default/lycanitesmobs\\dungeons\\themes\\desert.json": "4DCAAE838F34CCA09A65B686AA78AA3D",
     "Default/VillageNames4\\namepieces\\monument.cfg": "40472ED08AA3506B78A9D5D40C2F00EB",
     "12.10.2021 16.36.37/lycanitesmobs\\dungeons\\themes\\desert.json": "92BA56824D59C937EF531BB11E454CCE",
