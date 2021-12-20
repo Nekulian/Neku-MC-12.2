@@ -68,15 +68,28 @@
   },
   "main": {
     "0": {
-      "title": "bauble inventory",
+      "title": "Backpack",
       "icon": {
-        "name": "minecraft:stone",
+        "name": "travelersbackpack:travelers_backpack",
         "damage": 0
       },
       "action": {
         "key": {
-          "key": "keybind.baublesinventory",
-          "toggle": false
+          "key": "key.travelersbackpack.inventory",
+          "toggle": true
+        }
+      }
+    },
+    "1": {
+      "title": "World Map",
+      "icon": {
+        "name": "minecraft:map",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_open_map",
+          "toggle": true
         }
       }
     }
