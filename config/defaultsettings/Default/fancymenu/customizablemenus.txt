@@ -12,9 +12,6 @@ net.minecraft.client.gui.GuiScreenOptionsSounds {
 net.minecraft.client.gui.GuiVideoSettings {
 }
 
-us.getfluxed.controlsearch.client.gui.GuiNewControls {
-}
-
 net.minecraft.client.gui.inventory.GuiInventory {
 }
 
@@ -25,5 +22,14 @@ net.minecraft.client.gui.GuiMainMenu {
 }
 
 net.minecraft.client.gui.GuiOptions {
+}
+
+xaero.common.gui.GuiMinimapMain {
+}
+
+us.getfluxed.controlsearch.client.gui.GuiNewControls {
+}
+
+xaero.map.gui.GuiMap {
 }
 
